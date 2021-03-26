@@ -80,23 +80,23 @@ public class CubeSpawn : MonoBehaviour
     {
         Sides cubeSide = new Sides();
 
-        cubeSide.top = true;
+        cubeSide.top = false;
         cubeSide.front = false;
-        cubeSide.bottom = true;
+        cubeSide.bottom = false;
         cubeSide.back = false;
         cubeSide.left = false;
         cubeSide.right = false;
 
         Debug.Log(position);
 
-        //if (heightMap / 2.0 > (position.y/height) + 1)
-        //{
-        //    cubeSide.top = true;
-        //}
-        //if (heightMap / 2.0 > position.y - 1)
-        //{
-        //    cubeSide.bottom = true;
-        //}
+        if (heightMap[(int)position.x, (int)position.z] / 2.0 > position.y + 0.1 )
+        {
+            cubeSide.top = true;
+        }
+        if (heightMap[(int)position.x, (int)position.z] / 2.0 > position.y - 0.1)
+        {
+            cubeSide.bottom = true;
+        }
         if (position.x < heightMap.GetLength(0) - 1 && heightMap[(int)position.x + 1, (int)position.z] / 2.0 > position.y)
         {
             cubeSide.right = true;
@@ -108,11 +108,11 @@ public class CubeSpawn : MonoBehaviour
         }
         if (position.z > 0 && heightMap[(int)position.x , (int)position.z - 1] / 2.0 > position.y)
         {
-            cubeSide.back = true;
+            cubeSide.front = true;
         }
         if (position.z < heightMap.GetLength(1)  -1 && heightMap[(int)position.x, (int)position.z + 1] / 2.0 > position.y)
         {
-            cubeSide.front = true;
+            cubeSide.back = true;
         }
 
         return cubeSide;
