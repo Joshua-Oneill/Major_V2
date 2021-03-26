@@ -69,8 +69,8 @@ public class CubeGenerator
 
         Vector2[] uv = calcUVs(textureOffset.x, textureOffset.y); //the paramteres here corrospond to the row and column on the texture atlas, example dirt would be row 3 column 16
 
-        Vector2[] uv1 = calcSideUVs(textureOffset.x, textureOffset.y);   
-        
+        Vector2[] uv1 = calcSideUVs(textureOffset.x, textureOffset.y);
+
         if (!neighbours.front)
         {
             GameObject frontFace = new GameObject("frontFace");
@@ -97,8 +97,8 @@ public class CubeGenerator
             topMesh.uv = uv;
             topMeshFilter.mesh = topMesh;
         }
-        //if (!neighbours.bottom) 
-       // {
+        if (!neighbours.bottom) 
+        {
             GameObject bottomFace = new GameObject("bottomFace");
             bottomFace.transform.SetParent(gameObject.transform);
             MeshFilter bottomMeshFilter = bottomFace.AddComponent<MeshFilter>();
@@ -109,9 +109,9 @@ public class CubeGenerator
             bottomMesh.normals = normals;
             bottomMesh.uv = uv;
             bottomMeshFilter.mesh = bottomMesh;
-        //}
-       // if (!neighbours.back)
-       // {
+        }
+        if (!neighbours.back)
+        {
             GameObject backFace = new GameObject("backFace");
             backFace.transform.SetParent(gameObject.transform);
             MeshFilter backMeshFilter = backFace.AddComponent<MeshFilter>();
@@ -122,9 +122,9 @@ public class CubeGenerator
             backMesh.normals = normals;
             backMesh.uv = uv1;
             backMeshFilter.mesh = backMesh;
-       // }
-        //if (!neighbours.left)
-        //{
+        }
+        if (!neighbours.left)
+        {
             GameObject leftFace = new GameObject("leftFace");
             leftFace.transform.SetParent(gameObject.transform);
             MeshFilter leftMeshFilter = leftFace.AddComponent<MeshFilter>();
@@ -135,9 +135,9 @@ public class CubeGenerator
             leftMesh.normals = normals;
             leftMesh.uv = uv1;
             leftMeshFilter.mesh = leftMesh;
-       // }
-       // if (!neighbours.right)
-        //{
+        }
+        if (!neighbours.right)
+        {
             GameObject rightFace = new GameObject("rightFace");
             rightFace.transform.SetParent(gameObject.transform);
             MeshFilter rightMeshFilter = rightFace.AddComponent<MeshFilter>();
@@ -148,7 +148,7 @@ public class CubeGenerator
             rightMesh.normals = normals;
             rightMesh.uv = uv1;
             rightMeshFilter.mesh = rightMesh;
-       // }
+        }
     }
 
 }

@@ -45,7 +45,9 @@ public class CubeSpawn : MonoBehaviour
     public GameObject[,,] cubeArray;
     public Material textureAtlas;
     public void CubeMake(int length, int depth, int height, float[,] heightMap, int chunkX, int chunkY)
-    { 
+    {
+        
+
         cubeArray = new GameObject[length + chunkX, height, depth + chunkY];
         for (int xIndex = 0; xIndex < length; xIndex++)
         {
@@ -60,7 +62,7 @@ public class CubeSpawn : MonoBehaviour
                     // y/height is in decimal form whihc will be 0-1. 
                     if (heightMap[xIndex + xOffset, zIndex + yOffset] /2.0 > yIndex/(double)height )
                     {
-                        Sides neighbours = CalculateNeighbours(heightMap[xIndex + xOffset, zIndex + yOffset], new Vector3(xIndex + xOffset, yIndex, zIndex + yOffset));
+                        Sides neighbours = CalculateNeighbours(heightMap, new Vector3(xIndex + xOffset, yIndex/(float)height , zIndex + yOffset));
 
                         GameObject go = new GameObject();
                         cubeArray[xIndex, yIndex, zIndex] = go;
@@ -74,41 +76,44 @@ public class CubeSpawn : MonoBehaviour
 
    
 
-    public Sides CalculateNeighbours(float heightMap, Vector3 position)
+    public Sides CalculateNeighbours(float [,] heightMap, Vector3 position)
     {
         Sides cubeSide = new Sides();
 
+        cubeSide.top = true;
         cubeSide.front = false;
-        cubeSide.bottom = false;
+        cubeSide.bottom = true;
         cubeSide.back = false;
-        cubeSide.top = false;
         cubeSide.left = false;
         cubeSide.right = false;
-        
-        //if(heightMap/ 2.0 > position.y + 1)
+
+        Debug.Log(position);
+
+        //if (heightMap / 2.0 > (position.y/height) + 1)
         //{
-        //    cubeSide.top = true;         
+        //    cubeSide.top = true;
         //}
         //if (heightMap / 2.0 > position.y - 1)
         //{
         //    cubeSide.bottom = true;
         //}
-        //if (heightMap / 2.0 > position.x + 1)
-        //{
-        //    cubeSide.right = true;
-        //}
-        //if (heightMap / 2.0 > position.x - 1)
-        //{
-        //    cubeSide.left = true;
-        //}
-        //if (heightMap / 2.0 > position.z + 1)
-        //{
-        //    cubeSide.back = true;
-        //}
-        //if (heightMap / 2.0 > position.z - 1)
-        //{
-        //    cubeSide.front = true;
-        //}
+        if (position.x < heightMap.GetLength(0) - 1 && heightMap[(int)position.x + 1, (int)position.z] / 2.0 > position.y)
+        {
+            cubeSide.right = true;
+        }
+        if (position.x > 0 && heightMap[(int)position.x - 1, (int)position.z] / 2.0 > position.y)
+        {
+
+            cubeSide.left = true;
+        }
+        if (position.z > 0 && heightMap[(int)position.x , (int)position.z - 1] / 2.0 > position.y)
+        {
+            cubeSide.back = true;
+        }
+        if (position.z < heightMap.GetLength(1)  -1 && heightMap[(int)position.x, (int)position.z + 1] / 2.0 > position.y)
+        {
+            cubeSide.front = true;
+        }
 
         return cubeSide;
     }
