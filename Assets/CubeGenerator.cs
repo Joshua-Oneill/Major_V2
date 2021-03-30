@@ -77,6 +77,7 @@ public class CubeGenerator
             frontFace.transform.SetParent(gameObject.transform);
             MeshFilter frontMeshFilter = frontFace.AddComponent<MeshFilter>();
             MeshRenderer frontMeshRenderer = frontFace.AddComponent<MeshRenderer>();
+            frontFace.AddComponent<MeshCollider>();
             frontMeshRenderer.material = textureAtlas;
             frontMesh.vertices = new Vector3[] { vertices[0], vertices[1], vertices[2], vertices[3] };
             frontMesh.triangles = new int[] { 0, 2, 1, 2, 3, 1 };
@@ -90,12 +91,20 @@ public class CubeGenerator
             topFace.transform.SetParent(gameObject.transform);
             MeshFilter topMeshFilter = topFace.AddComponent<MeshFilter>();
             MeshRenderer topMeshRenderer = topFace.AddComponent<MeshRenderer>();
+            
+            
             topMeshRenderer.material = textureAtlas;
             topMesh.vertices = new Vector3[] { vertices[2], vertices[3], vertices[5], vertices[7] };
             topMesh.triangles = new int[] { 3, 2, 1, 0, 3, 1 };
             topMesh.normals = normals;
             topMesh.uv = uv;
             topMeshFilter.mesh = topMesh;
+
+            MeshCollider topCollider = topFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
+            topCollider.sharedMesh = null;
+            topCollider.sharedMesh = topMesh;
+            topCollider.convex = true;
+
         }
         if (!neighbours.bottom) 
         {
