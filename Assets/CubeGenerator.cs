@@ -77,13 +77,17 @@ public class CubeGenerator
             frontFace.transform.SetParent(gameObject.transform);
             MeshFilter frontMeshFilter = frontFace.AddComponent<MeshFilter>();
             MeshRenderer frontMeshRenderer = frontFace.AddComponent<MeshRenderer>();
+
             frontFace.AddComponent<MeshCollider>();
+
             frontMeshRenderer.material = textureAtlas;
             frontMesh.vertices = new Vector3[] { vertices[0], vertices[1], vertices[2], vertices[3] };
             frontMesh.triangles = new int[] { 0, 2, 1, 2, 3, 1 };
             frontMesh.normals = normals;
             frontMesh.uv = uv1;
             frontMeshFilter.mesh = frontMesh;
+
+
         }
         if (!neighbours.top)
         {

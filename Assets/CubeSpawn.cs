@@ -35,7 +35,9 @@ public class CubeSpawn : MonoBehaviour
 
     private TerrainType[] terrainTypes =
     {
-        new TerrainType("grass", 0.5f, new Vector2(3,16)),
+        new TerrainType("grassTop", 0.6f, new Vector2(2, 7)),
+        new TerrainType("grass", 0.5f, new Vector2(3, 16)),
+        new TerrainType("water", 0.4125f, new Vector2(15, 4)),
         new TerrainType("stone", 0.4f, new Vector2(2, 16)),
         new TerrainType("diamond", 0.3f, new Vector2(3, 13))
             

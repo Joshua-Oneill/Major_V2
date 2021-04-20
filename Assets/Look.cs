@@ -42,6 +42,9 @@ public class Move : MonoBehaviour
         }
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
+        float y = Input.GetAxis("Jump");
+
+       
 
         if(Input.GetKeyDown(KeyCode.LeftShift))
         {
@@ -52,7 +55,7 @@ public class Move : MonoBehaviour
             speed = locamotion;
         }
 
-        Vector3 move = transform.right * x + transform.forward * z;
+        Vector3 move = transform.right * x + transform.forward * z + (transform.up * y * JumpH);
 
         
 
