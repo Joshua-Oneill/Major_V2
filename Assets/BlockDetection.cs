@@ -20,12 +20,12 @@ public class BlockDetection : MonoBehaviour
     public void RayDetect()
     {
         RaycastHit hit = new RaycastHit(); //sets up the ability to receive information when a Ray hits a collider
-        Ray ray = playerCamera.ScreenPointToRay(Input.mousePosition); //creates a ray based on the position of the  mouse through the player Camera
-        Debug.DrawRay(ray.origin, ray.direction * 30, Color.green);
+        //Ray ray = playerCamera.ScreenPointToRay(Input.mousePosition); //creates a ray based on the position of the  mouse through the player Camera
+        Debug.DrawRay(playerCamera.transform.position, playerCamera.transform.forward * 10, Color.green);
 
         if (Input.GetMouseButtonDown(0))
         {
-            if (Physics.Raycast(ray, out hit, 5))
+            if (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit, 10))
             {
                 Debug.Log(hit.collider.name);
                 hit.collider.gameObject.GetComponent<MeshRenderer>().material.color = Color.red;

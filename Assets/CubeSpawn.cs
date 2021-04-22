@@ -34,7 +34,7 @@ public struct Sides
 
 public class CubeSpawn : MonoBehaviour
 {
-    public Material startColor;
+    
 
     private TerrainType[] terrainTypes =
     {
@@ -135,11 +135,6 @@ public class CubeSpawn : MonoBehaviour
         return new Vector2(3, 16);
     }
 
-    void OnMouseEnter() {
-
-        startColor = textureAtlas;
-        textureAtlas.color = Color.red;
-
-    }
+   
 
 }
