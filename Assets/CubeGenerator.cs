@@ -78,7 +78,7 @@ public class CubeGenerator
             MeshFilter frontMeshFilter = frontFace.AddComponent<MeshFilter>();
             MeshRenderer frontMeshRenderer = frontFace.AddComponent<MeshRenderer>();
 
-            frontFace.AddComponent<MeshCollider>();
+            
 
             frontMeshRenderer.material = textureAtlas;
             frontMesh.vertices = new Vector3[] { vertices[0], vertices[1], vertices[2], vertices[3] };
@@ -87,6 +87,10 @@ public class CubeGenerator
             frontMesh.uv = uv1;
             frontMeshFilter.mesh = frontMesh;
 
+            MeshCollider frontCollider = frontFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
+            frontCollider.sharedMesh = null;
+            frontCollider.sharedMesh = topMesh;
+            frontCollider.convex = true;
 
         }
         if (!neighbours.top)
@@ -116,12 +120,15 @@ public class CubeGenerator
             bottomFace.transform.SetParent(gameObject.transform);
             MeshFilter bottomMeshFilter = bottomFace.AddComponent<MeshFilter>();
             MeshRenderer bottomMeshRenderer = bottomFace.AddComponent<MeshRenderer>();
+
             bottomMeshRenderer.material = textureAtlas;
             bottomMesh.vertices = new Vector3[] { vertices[0], vertices[1], vertices[4], vertices[6] };
             bottomMesh.triangles = new int[] { 3, 0, 2, 0, 1, 2 };
             bottomMesh.normals = normals;
             bottomMesh.uv = uv;
             bottomMeshFilter.mesh = bottomMesh;
+
+
         }
         if (!neighbours.back)
         {
@@ -129,12 +136,20 @@ public class CubeGenerator
             backFace.transform.SetParent(gameObject.transform);
             MeshFilter backMeshFilter = backFace.AddComponent<MeshFilter>();
             MeshRenderer backMeshRenderer = backFace.AddComponent<MeshRenderer>();
+
             backMeshRenderer.material = textureAtlas;
             backMesh.vertices = new Vector3[] { vertices[4], vertices[5], vertices[6], vertices[7] };
             backMesh.triangles = new int[] { 0, 3, 2, 0, 1, 3 };
             backMesh.normals = normals;
             backMesh.uv = uv1;
             backMeshFilter.mesh = backMesh;
+
+            MeshCollider backCollider = backFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
+            backCollider.sharedMesh = null;
+            backCollider.sharedMesh = topMesh;
+            backCollider.convex = true;
+
+
         }
         if (!neighbours.left)
         {
@@ -142,12 +157,18 @@ public class CubeGenerator
             leftFace.transform.SetParent(gameObject.transform);
             MeshFilter leftMeshFilter = leftFace.AddComponent<MeshFilter>();
             MeshRenderer leftMeshRenderer = leftFace.AddComponent<MeshRenderer>();
+
             leftMeshRenderer.material = textureAtlas;
             leftMesh.vertices = new Vector3[] { vertices[0], vertices[2], vertices[6], vertices[7] };
             leftMesh.triangles = new int[] { 0, 2, 3, 3, 1, 0 };
             leftMesh.normals = normals;
             leftMesh.uv = uv1;
             leftMeshFilter.mesh = leftMesh;
+
+            MeshCollider leftCollider = leftFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
+            leftCollider.sharedMesh = null;
+            leftCollider.sharedMesh = topMesh;
+            leftCollider.convex = true;
         }
         if (!neighbours.right)
         {
@@ -155,12 +176,18 @@ public class CubeGenerator
             rightFace.transform.SetParent(gameObject.transform);
             MeshFilter rightMeshFilter = rightFace.AddComponent<MeshFilter>();
             MeshRenderer rightMeshRenderer = rightFace.AddComponent<MeshRenderer>();
+
             rightMeshRenderer.material = textureAtlas;
             rightMesh.vertices = new Vector3[] { vertices[1], vertices[3], vertices[4], vertices[5] };
             rightMesh.triangles = new int[] { 1, 2, 0, 1, 3, 2 };
             rightMesh.normals = normals;
             rightMesh.uv = uv1;
             rightMeshFilter.mesh = rightMesh;
+
+            MeshCollider rightCollider = rightFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
+            rightCollider.sharedMesh = null;
+            rightCollider.sharedMesh = topMesh;
+            rightCollider.convex = true;
         }
     }
 

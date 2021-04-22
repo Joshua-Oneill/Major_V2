@@ -11,6 +11,8 @@ public class TerrainType
     public float height;
     public Vector2 coords;
 
+    
+
     public TerrainType(string n, float h, Vector2 c)
     {
         name = n;
@@ -32,6 +34,7 @@ public struct Sides
 
 public class CubeSpawn : MonoBehaviour
 {
+    public Material startColor;
 
     private TerrainType[] terrainTypes =
     {
@@ -105,7 +108,6 @@ public class CubeSpawn : MonoBehaviour
         }
         if (position.x > 0 && heightMap[(int)position.x - 1, (int)position.z] / 2.0 > position.y)
         {
-
             cubeSide.left = true;
         }
         if (position.z > 0 && heightMap[(int)position.x , (int)position.z - 1] / 2.0 > position.y)
@@ -132,4 +134,12 @@ public class CubeSpawn : MonoBehaviour
         }
         return new Vector2(3, 16);
     }
+
+    void OnMouseEnter() {
+
+        startColor = textureAtlas;
+        textureAtlas.color = Color.red;
+
+    }
+
 }
