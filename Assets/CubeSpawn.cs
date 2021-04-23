@@ -46,10 +46,12 @@ public class CubeSpawn : MonoBehaviour
             
     };
 
-    
+    public Sides neighbours;
+
+
     public GameObject[,,] cubeArray;
     public Material textureAtlas;
-    public void CubeMake(int length, int depth, int height, float[,] heightMap, int chunkX, int chunkY)
+    public GameObject[,,] CubeMake(int length, int depth, int height, float[,] heightMap, int chunkX, int chunkY)
     {
         
 
@@ -80,6 +82,8 @@ public class CubeSpawn : MonoBehaviour
                 }
             }
         }
+
+        return cubeArray;
     }
 
    

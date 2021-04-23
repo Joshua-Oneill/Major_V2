@@ -5,8 +5,9 @@ using UnityEngine;
 public class BlockDetection : MonoBehaviour
 {
 
-    [SerializeField]
-    CubeSpawn cubeSpawnScript;
+
+    public CubeSpawn cubeSpawnScript;
+    public tileGenerator tileGeneratorScript;
 
     public Camera playerCamera;
     //public CubeSpawn cubeSpawnScript;
@@ -42,10 +43,15 @@ public class BlockDetection : MonoBehaviour
                 int zIn;
                 int.TryParse(hit.transform.parent.name.Substring(32, 2), out zIn);
 
-                
-                
+                int xChunk;
+                int.TryParse(hit.transform.parent.name.Substring(8, 2), out xChunk);
+                int yChunk;
+                int.TryParse(hit.transform.parent.name.Substring(13, 2), out yChunk);
 
-                Debug.Log(cubeSpawnScript.cubeArray[xIn, yIn, zIn]);
+                GameObject go = new GameObject();
+                tileGeneratorScript.chunkArray[xChunk, yChunk][xIn, yIn, zIn] = go;
+                CubeGenerator.CreateCube(go, new Vector3(xIn, yIn, xIn), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), cubeSpawnScript.neighbours);
+                
             }
         }
 

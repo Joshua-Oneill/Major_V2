@@ -463,6 +463,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1118b4764b5ebe144b778b94ba9afa95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cubeSpawnScript: {fileID: 1752370287}
+  tileGeneratorScript: {fileID: 1752370289}
   playerCamera: {fileID: 963194227}
 --- !u!1 &1752370286
 GameObject:
@@ -498,7 +500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7f523284f0e8b446b18fa54d7d60bd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startColor: {fileID: 0}
   textureAtlas: {fileID: 2100000, guid: 2a6ebbf2547654a47aab23be21f708cc, type: 2}
 --- !u!114 &1752370288
 MonoBehaviour:
@@ -528,12 +529,12 @@ MonoBehaviour:
   tileRenderer: {fileID: 1752370291}
   meshFilter: {fileID: 1752370292}
   meshCollider: {fileID: 1752370290}
-  mapScale: 10
-  mapHeight: 15
+  mapScale: 5
+  mapHeight: 10
   cubeSpawnScript: {fileID: 1752370287}
-  tileDepth: 15
-  tileLength: 15
-  chunkSize: 4
+  tileDepth: 10
+  tileLength: 10
+  chunkSize: 2
 --- !u!64 &1752370290
 MeshCollider:
   m_ObjectHideFlags: 0

@@ -34,10 +34,14 @@ public class tileGenerator : MonoBehaviour
 
     public int tileDepth;
     public int tileLength;
-   // public RawImage perlinImage;
+
+    public GameObject[,][,,] chunkArray;
+
+    // public RawImage perlinImage;
 
     public int chunkSize; //the size of the entire map, square, number of chunks that make the map
 
+    public float[,] heightMap;
 
     // Start is called before the first frame update
     void Start()
@@ -51,14 +55,17 @@ public class tileGenerator : MonoBehaviour
         //int tileDepth = (int)Mathf.Sqrt(meshVertices.Length);
         //int tileWidth = tileDepth;
 
-        float[,] heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkSize, tileDepth * chunkSize, mapScale);
+        heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkSize, tileDepth * chunkSize, mapScale);
+
+
+        chunkArray = new GameObject[chunkSize, chunkSize][,,];
 
         for (int chunkX = 0; chunkX < chunkSize; chunkX++)
         {
             for (int chunkY = 0; chunkY < chunkSize; chunkY++)
             {
-                cubeSpawnScript.CubeMake(tileLength, tileDepth, mapHeight, heightMap, chunkX, chunkY);
-
+                
+                chunkArray[chunkX, chunkY] = cubeSpawnScript.CubeMake(tileLength, tileDepth, mapHeight, heightMap, chunkX, chunkY);
             }
         }
 
