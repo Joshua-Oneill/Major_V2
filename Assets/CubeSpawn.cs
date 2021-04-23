@@ -46,7 +46,7 @@ public class CubeSpawn : MonoBehaviour
             
     };
 
-
+    
     public GameObject[,,] cubeArray;
     public Material textureAtlas;
     public void CubeMake(int length, int depth, int height, float[,] heightMap, int chunkX, int chunkY)
@@ -61,18 +61,21 @@ public class CubeSpawn : MonoBehaviour
                 for (int yIndex = 0; yIndex < height; yIndex++)
                 {
                     int xOffset = chunkX * length;
-                    int yOffset = chunkY * depth;
+                    int zOffset = chunkY * depth;
                     
                     // height map is 0-1 also divided by 2.0 as a seondary map scale a heigher number will be smoother a lower number is more tall and rigid,
                     // y/height is in decimal form whihc will be 0-1. 
-                    if (heightMap[xIndex + xOffset, zIndex + yOffset] /2.0 > yIndex/(double)height )
+                    if (heightMap[xIndex + xOffset, zIndex + zOffset] /2.0 > yIndex/(double)height )
                     {
-                        Sides neighbours = CalculateNeighbours(heightMap, new Vector3(xIndex + xOffset, yIndex/(float)height , zIndex + yOffset));
+                        Sides neighbours = CalculateNeighbours(heightMap, new Vector3(xIndex + xOffset, yIndex/(float)height , zIndex + zOffset));
 
                         GameObject go = new GameObject();
                         cubeArray[xIndex, yIndex, zIndex] = go;
-                        CubeGenerator.CreateCube(go, new Vector3(xIndex + xOffset, yIndex, zIndex + yOffset), textureAtlas, 
-                            ChooseTerrainType(heightMap[xIndex + xOffset, zIndex + yOffset]), neighbours);
+                        CubeGenerator.CreateCube(go, new Vector3(xIndex + xOffset, yIndex, zIndex + zOffset), textureAtlas, 
+                            ChooseTerrainType(heightMap[xIndex + xOffset, zIndex + zOffset]), neighbours);
+                        go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", chunkX, chunkY, xOffset, yIndex, zIndex);
+                        
+                       
                     }
                 }
             }

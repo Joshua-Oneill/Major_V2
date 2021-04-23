@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class BlockDetection : MonoBehaviour
 {
+
+    [SerializeField]
+    CubeSpawn cubeSpawnScript;
+
     public Camera playerCamera;
+    //public CubeSpawn cubeSpawnScript;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,14 +33,22 @@ public class BlockDetection : MonoBehaviour
             if (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit, 10))
             {
                 Debug.Log(hit.collider.name);
-                hit.collider.gameObject.GetComponent<MeshRenderer>().material.color = Color.red;
+                //hit.collider.gameObject.GetComponent<MeshRenderer>().material.color = Color.red;
+                Debug.Log("Chunk X = " + hit.transform.parent.name.Substring(8,2));
+                int xIn;
+                int.TryParse(hit.transform.parent.name.Substring(24, 2), out xIn);
+                int yIn;
+                int.TryParse(hit.transform.parent.name.Substring(28, 2), out yIn);
+                int zIn;
+                int.TryParse(hit.transform.parent.name.Substring(32, 2), out zIn);
+
+                
+                
+
+                Debug.Log(cubeSpawnScript.cubeArray[xIn, yIn, zIn]);
             }
         }
-        if (Input.GetMouseButtonUp(0))
-        {
-            hit.collider.gameObject.GetComponent<MeshRenderer>().material.color = Color.green;
 
-        }
     }
 
 }
