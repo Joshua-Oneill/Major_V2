@@ -89,7 +89,7 @@ public class CubeGenerator
 
             MeshCollider frontCollider = frontFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
             frontCollider.sharedMesh = null;
-            frontCollider.sharedMesh = topMesh;
+            frontCollider.sharedMesh = frontMesh;
             frontCollider.convex = true;
 
         }
@@ -146,7 +146,7 @@ public class CubeGenerator
 
             MeshCollider backCollider = backFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
             backCollider.sharedMesh = null;
-            backCollider.sharedMesh = topMesh;
+            backCollider.sharedMesh = backMesh;
             backCollider.convex = true;
 
 
@@ -167,7 +167,7 @@ public class CubeGenerator
 
             MeshCollider leftCollider = leftFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
             leftCollider.sharedMesh = null;
-            leftCollider.sharedMesh = topMesh;
+            leftCollider.sharedMesh = leftMesh;
             leftCollider.convex = true;
         }
         if (!neighbours.right)
@@ -186,7 +186,7 @@ public class CubeGenerator
 
             MeshCollider rightCollider = rightFace.AddComponent(typeof(MeshCollider)) as MeshCollider;
             rightCollider.sharedMesh = null;
-            rightCollider.sharedMesh = topMesh;
+            rightCollider.sharedMesh = rightMesh;
             rightCollider.convex = true;
         }
     }
