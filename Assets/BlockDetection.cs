@@ -35,7 +35,7 @@ public class BlockDetection : MonoBehaviour
             {
                 Debug.Log(hit.collider.name);
                 //hit.collider.gameObject.GetComponent<MeshRenderer>().material.color = Color.red;
-                Debug.Log("Chunk X = " + hit.transform.parent.name.Substring(8,2));
+               
                 int xIn;
                 int.TryParse(hit.transform.parent.name.Substring(24, 2), out xIn);
                 int yIn;
@@ -48,9 +48,15 @@ public class BlockDetection : MonoBehaviour
                 int yChunk;
                 int.TryParse(hit.transform.parent.name.Substring(13, 2), out yChunk);
 
+                Debug.Log($"x: {xIn} y: {yIn} z: {zIn}");
+                Debug.Log("Chunk X = " + xChunk + "Chunk Y =" + yChunk);
+
+
+
                 GameObject go = new GameObject();
+                go.transform.position = new Vector3(0, 0, 0);
                 tileGeneratorScript.chunkArray[xChunk, yChunk][xIn, yIn, zIn] = go;
-                CubeGenerator.CreateCube(go, new Vector3(xIn, yIn, xIn), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), cubeSpawnScript.neighbours);
+                CubeGenerator.CreateCube(go, new Vector3(xIn, yIn, zIn), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), cubeSpawnScript.neighbours);
                 
             }
         }
