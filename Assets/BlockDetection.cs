@@ -50,13 +50,16 @@ public class BlockDetection : MonoBehaviour
 
                 Debug.Log($"x: {xIn} y: {yIn} z: {zIn}");
                 Debug.Log("Chunk X = " + xChunk + "Chunk Y =" + yChunk);
-
+                Debug.Log(hit.transform.position);
 
 
                 GameObject go = new GameObject();
                 go.transform.position = new Vector3(0, 0, 0);
+
                 tileGeneratorScript.chunkArray[xChunk, yChunk][xIn, yIn, zIn] = go;
-                CubeGenerator.CreateCube(go, new Vector3(xIn, yIn, zIn), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), cubeSpawnScript.neighbours);
+
+
+                CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10) , yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), cubeSpawnScript.neighbours);
                 
             }
         }

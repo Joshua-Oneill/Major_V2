@@ -55,7 +55,7 @@ public class CubeSpawn : MonoBehaviour
     {
         
 
-        cubeArray = new GameObject[length + chunkX, height, depth + chunkY];
+        cubeArray = new GameObject[length , height, depth ];
         for (int xIndex = 0; xIndex < length; xIndex++)
         {
             for (int zIndex = 0; zIndex < depth; zIndex++)
@@ -72,10 +72,14 @@ public class CubeSpawn : MonoBehaviour
                         Sides neighbours = CalculateNeighbours(heightMap, new Vector3(xIndex + xOffset, yIndex/(float)height , zIndex + zOffset));
 
                         GameObject go = new GameObject();
+                        
                         cubeArray[xIndex, yIndex, zIndex] = go;
-                        CubeGenerator.CreateCube(go, new Vector3(xIndex + xOffset, yIndex, zIndex + zOffset), textureAtlas, 
+                        CubeGenerator.CreateCube(go, new Vector3(0, 0, 0), textureAtlas, 
                             ChooseTerrainType(heightMap[xIndex + xOffset, zIndex + zOffset]), neighbours);
-                        go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", chunkX, chunkY, xOffset, yIndex, zIndex);
+
+                        go.transform.position = new Vector3(xIndex + xOffset, yIndex, zIndex + zOffset);
+
+                        go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", chunkX, chunkY, xIndex , yIndex, zIndex);
                         
                        
                     }
