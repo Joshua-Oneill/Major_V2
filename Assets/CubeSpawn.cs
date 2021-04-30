@@ -46,7 +46,7 @@ public class CubeSpawn : MonoBehaviour
             
     };
 
-    public Sides neighbours;
+
 
 
     public GameObject[,,] cubeArray;
@@ -103,7 +103,7 @@ public class CubeSpawn : MonoBehaviour
         cubeSide.left = false;
         cubeSide.right = false;
 
-        Debug.Log(position);
+
 
         if (heightMap[(int)position.x, (int)position.z] / 2.0 > position.y + 0.1 )
         {
