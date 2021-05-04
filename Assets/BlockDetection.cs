@@ -9,6 +9,11 @@ public class BlockDetection : MonoBehaviour
     public CubeSpawn cubeSpawnScript;
     public tileGenerator tileGeneratorScript;
 
+
+    public float textureX = 3;
+    public float textureY = 16;
+    
+
     RaycastHit hit = new RaycastHit(); //sets up the ability to receive information when a Ray hits a collider
 
     public Camera playerCamera;
@@ -62,33 +67,33 @@ public class BlockDetection : MonoBehaviour
 
                 if (hit.collider.name == "rightFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3((xIn+1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3((xIn+1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn + 1, yIn, zIn);
                 }
                 if (hit.collider.name == "leftFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3((xIn - 1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3((xIn - 1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn - 1, yIn, zIn);
                 }
                 if (hit.collider.name == "topFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3(xIn  + (xChunk * 10), yIn + 1, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3(xIn  + (xChunk * 10), yIn + 1, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn, yIn + 1, zIn);
                 }
                 if (hit.collider.name == "frontFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn, (zIn  + (yChunk * 10)) + 1), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn, (zIn  + (yChunk * 10)) + 1), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn, yIn, zIn + 1);
                 }
                 if (hit.collider.name == "backFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn, (zIn - 1) + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn, (zIn - 1) + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn, yIn, zIn -1);
                 }
 
                 if (hit.collider.name == "bottomFace")
                 {
-                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn - 1, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
+                    CubeGenerator.CreateCube(go, new Vector3(xIn + (xChunk * 10), yIn - 1, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn, yIn - 1, zIn);
                 }
 
