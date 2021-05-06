@@ -10,8 +10,8 @@ public class BlockDetection : MonoBehaviour
     public tileGenerator tileGeneratorScript;
 
 
-    public float textureX = 3;
-    public float textureY = 16;
+    public float textureX = 3f;
+    public float textureY = 16f;
     
 
     RaycastHit hit = new RaycastHit(); //sets up the ability to receive information when a Ray hits a collider
@@ -65,10 +65,13 @@ public class BlockDetection : MonoBehaviour
 
                 tileGeneratorScript.chunkArray[xChunk, yChunk][xIn, yIn, zIn] = go;
 
+                Debug.Log("this is before if: " + textureX +" " + textureY);
+
                 if (hit.collider.name == "rightFace")
                 {
                     CubeGenerator.CreateCube(go, new Vector3((xIn+1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn + 1, yIn, zIn);
+                    Debug.Log("this is after if: " + textureX + " " + textureY);
                 }
                 if (hit.collider.name == "leftFace")
                 {
@@ -79,6 +82,7 @@ public class BlockDetection : MonoBehaviour
                 {
                     CubeGenerator.CreateCube(go, new Vector3(xIn  + (xChunk * 10), yIn + 1, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(textureX, textureY), CalculateNeighbours(go, cubeSpawnScript.cubeArray));
                     go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", xChunk, yChunk, xIn, yIn + 1, zIn);
+                    Debug.Log("this is after if: " + textureX + " " + textureY);
                 }
                 if (hit.collider.name == "frontFace")
                 {

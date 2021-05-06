@@ -1,0 +1,7016 @@
+fileFormatVersion: 2
+guid: 0cbebc4643d6eda41b937b25ac29b9e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3651042863364722983
+    second: blockatlas 1_0
+  - first:
+      213: -1310295749665438017
+    second: blockatlas 1_1
+  - first:
+      213: -9214011725106286390
+    second: blockatlas 1_2
+  - first:
+      213: 461792684767925114
+    second: blockatlas 1_3
+  - first:
+      213: -6031777884012382206
+    second: blockatlas 1_4
+  - first:
+      213: 1381166544375288515
+    second: blockatlas 1_5
+  - first:
+      213: -606825296153367896
+    second: blockatlas 1_6
+  - first:
+      213: -7914133220958959332
+    second: blockatlas 1_7
+  - first:
+      213: -5861237017138251002
+    second: blockatlas 1_8
+  - first:
+      213: 9125915738547791686
+    second: blockatlas 1_9
+  - first:
+      213: -8539748869490230869
+    second: blockatlas 1_10
+  - first:
+      213: -2828881197932739152
+    second: blockatlas 1_11
+  - first:
+      213: 4470350130137857405
+    second: blockatlas 1_12
+  - first:
+      213: -5909059702670463688
+    second: blockatlas 1_13
+  - first:
+      213: -2203522096244274941
+    second: blockatlas 1_14
+  - first:
+      213: 3800669592171288431
+    second: blockatlas 1_15
+  - first:
+      213: 3098057165033358969
+    second: blockatlas 1_16
+  - first:
+      213: 7027643412015060861
+    second: blockatlas 1_17
+  - first:
+      213: -1239824400942545985
+    second: blockatlas 1_18
+  - first:
+      213: -601320500211546367
+    second: blockatlas 1_19
+  - first:
+      213: -4657152147206061598
+    second: blockatlas 1_20
+  - first:
+      213: 5794578943351519549
+    second: blockatlas 1_21
+  - first:
+      213: 1514589421888713196
+    second: blockatlas 1_22
+  - first:
+      213: 8220801302121928196
+    second: blockatlas 1_23
+  - first:
+      213: 6859487438429200465
+    second: blockatlas 1_24
+  - first:
+      213: 8708520122960734419
+    second: blockatlas 1_25
+  - first:
+      213: -9186768626324096148
+    second: blockatlas 1_26
+  - first:
+      213: 6277419100155046692
+    second: blockatlas 1_27
+  - first:
+      213: -4124587714162163452
+    second: blockatlas 1_28
+  - first:
+      213: -7693203694690779372
+    second: blockatlas 1_29
+  - first:
+      213: 5213458706571408
+    second: blockatlas 1_30
+  - first:
+      213: -3370555843851262461
+    second: blockatlas 1_31
+  - first:
+      213: 5091399475200345251
+    second: blockatlas 1_32
+  - first:
+      213: -6502211632432048741
+    second: blockatlas 1_33
+  - first:
+      213: 652051508568841082
+    second: blockatlas 1_34
+  - first:
+      213: -1572784218922810538
+    second: blockatlas 1_35
+  - first:
+      213: -8399089695568960054
+    second: blockatlas 1_36
+  - first:
+      213: -543199317447651629
+    second: blockatlas 1_37
+  - first:
+      213: -6941234253407122453
+    second: blockatlas 1_38
+  - first:
+      213: 8477021673871591718
+    second: blockatlas 1_39
+  - first:
+      213: 6903209803799547523
+    second: blockatlas 1_40
+  - first:
+      213: -5472176785270511934
+    second: blockatlas 1_41
+  - first:
+      213: -6843455202583871476
+    second: blockatlas 1_42
+  - first:
+      213: 7880700266018924359
+    second: blockatlas 1_43
+  - first:
+      213: 3911829061544297910
+    second: blockatlas 1_44
+  - first:
+      213: 7850937912143588235
+    second: blockatlas 1_45
+  - first:
+      213: 2329644638925783909
+    second: blockatlas 1_46
+  - first:
+      213: 1216905732136243682
+    second: blockatlas 1_47
+  - first:
+      213: -6599460597143917279
+    second: blockatlas 1_48
+  - first:
+      213: -8143373416751719918
+    second: blockatlas 1_49
+  - first:
+      213: 5301502845182867848
+    second: blockatlas 1_50
+  - first:
+      213: -5606048683054934069
+    second: blockatlas 1_51
+  - first:
+      213: -2132628755928444144
+    second: blockatlas 1_52
+  - first:
+      213: -9064470464478612848
+    second: blockatlas 1_53
+  - first:
+      213: 1415740331332401332
+    second: blockatlas 1_54
+  - first:
+      213: -5896785238447331482
+    second: blockatlas 1_55
+  - first:
+      213: 4007982247059277091
+    second: blockatlas 1_56
+  - first:
+      213: -7748233971070593171
+    second: blockatlas 1_57
+  - first:
+      213: 2768723658973791975
+    second: blockatlas 1_58
+  - first:
+      213: 2294929264445479550
+    second: blockatlas 1_59
+  - first:
+      213: 4448893819906129709
+    second: blockatlas 1_60
+  - first:
+      213: -5587176500754812669
+    second: blockatlas 1_61
+  - first:
+      213: 7694757116886829404
+    second: blockatlas 1_62
+  - first:
+      213: 7593164476629434724
+    second: blockatlas 1_63
+  - first:
+      213: 2372793354749461018
+    second: blockatlas 1_64
+  - first:
+      213: 4226316649524066161
+    second: blockatlas 1_65
+  - first:
+      213: 7790742245649601398
+    second: blockatlas 1_66
+  - first:
+      213: -4665226617756459858
+    second: blockatlas 1_67
+  - first:
+      213: -1779450996210450474
+    second: blockatlas 1_68
+  - first:
+      213: 5613083519586371330
+    second: blockatlas 1_69
+  - first:
+      213: -702527133755491508
+    second: blockatlas 1_70
+  - first:
+      213: 4985952370109804188
+    second: blockatlas 1_71
+  - first:
+      213: 8007052197104188196
+    second: blockatlas 1_72
+  - first:
+      213: 5788498225845052159
+    second: blockatlas 1_73
+  - first:
+      213: -8251762969761067930
+    second: blockatlas 1_74
+  - first:
+      213: -198821483228382567
+    second: blockatlas 1_75
+  - first:
+      213: 3649567242773938497
+    second: blockatlas 1_76
+  - first:
+      213: -2969500664371948528
+    second: blockatlas 1_77
+  - first:
+      213: 7566693509192232787
+    second: blockatlas 1_78
+  - first:
+      213: -1183859196732359177
+    second: blockatlas 1_79
+  - first:
+      213: -4362318529017896109
+    second: blockatlas 1_80
+  - first:
+      213: 5711185211666251300
+    second: blockatlas 1_81
+  - first:
+      213: 6385390202589526971
+    second: blockatlas 1_82
+  - first:
+      213: -9201119049856505876
+    second: blockatlas 1_83
+  - first:
+      213: -1286729736419701513
+    second: blockatlas 1_84
+  - first:
+      213: -1466175385852752201
+    second: blockatlas 1_85
+  - first:
+      213: 4899264018356955282
+    second: blockatlas 1_86
+  - first:
+      213: -282213553319427900
+    second: blockatlas 1_87
+  - first:
+      213: -274239069096624876
+    second: blockatlas 1_88
+  - first:
+      213: 8785987179287007530
+    second: blockatlas 1_89
+  - first:
+      213: -5061710626192309368
+    second: blockatlas 1_90
+  - first:
+      213: -6331752728100885061
+    second: blockatlas 1_91
+  - first:
+      213: 7124325150483892550
+    second: blockatlas 1_92
+  - first:
+      213: -6051793302691830500
+    second: blockatlas 1_93
+  - first:
+      213: 7280231128508389751
+    second: blockatlas 1_94
+  - first:
+      213: 6589389278650236497
+    second: blockatlas 1_95
+  - first:
+      213: 6940104042524426388
+    second: blockatlas 1_96
+  - first:
+      213: 8377373246933899739
+    second: blockatlas 1_97
+  - first:
+      213: -5773104618518068989
+    second: blockatlas 1_98
+  - first:
+      213: -6667875524724462620
+    second: blockatlas 1_99
+  - first:
+      213: -7748440572921289873
+    second: blockatlas 1_100
+  - first:
+      213: 2792914976145266917
+    second: blockatlas 1_101
+  - first:
+      213: -3768284663052345682
+    second: blockatlas 1_102
+  - first:
+      213: 2277169046372113825
+    second: blockatlas 1_103
+  - first:
+      213: 8714467271602479451
+    second: blockatlas 1_104
+  - first:
+      213: -6180836325880753664
+    second: blockatlas 1_105
+  - first:
+      213: -6201917023164365926
+    second: blockatlas 1_106
+  - first:
+      213: -740560176734897715
+    second: blockatlas 1_107
+  - first:
+      213: 1091207596111879504
+    second: blockatlas 1_108
+  - first:
+      213: 112454188454465096
+    second: blockatlas 1_109
+  - first:
+      213: 4591106473383558769
+    second: blockatlas 1_110
+  - first:
+      213: -1327371322608253423
+    second: blockatlas 1_111
+  - first:
+      213: -868795027577608952
+    second: blockatlas 1_112
+  - first:
+      213: 7838068980907275112
+    second: blockatlas 1_113
+  - first:
+      213: -6072375646077155464
+    second: blockatlas 1_114
+  - first:
+      213: -3018397818894494581
+    second: blockatlas 1_115
+  - first:
+      213: 4670883414306885134
+    second: blockatlas 1_116
+  - first:
+      213: 2824171834926022204
+    second: blockatlas 1_117
+  - first:
+      213: -8337970323245759942
+    second: blockatlas 1_118
+  - first:
+      213: -2339267544026403082
+    second: blockatlas 1_119
+  - first:
+      213: 3587450229800272192
+    second: blockatlas 1_120
+  - first:
+      213: -3310359036027858468
+    second: blockatlas 1_121
+  - first:
+      213: -5033663484954184647
+    second: blockatlas 1_122
+  - first:
+      213: -5440119254937464690
+    second: blockatlas 1_123
+  - first:
+      213: -997676376789310855
+    second: blockatlas 1_124
+  - first:
+      213: -8669078033506444800
+    second: blockatlas 1_125
+  - first:
+      213: -8057715467816972151
+    second: blockatlas 1_126
+  - first:
+      213: 337701108126371132
+    second: blockatlas 1_127
+  - first:
+      213: 4620933585493792076
+    second: blockatlas 1_128
+  - first:
+      213: 3743206006659387381
+    second: blockatlas 1_129
+  - first:
+      213: 306028781146739935
+    second: blockatlas 1_130
+  - first:
+      213: 9124338067868138072
+    second: blockatlas 1_131
+  - first:
+      213: -5648717034632536032
+    second: blockatlas 1_132
+  - first:
+      213: -7256617746752039311
+    second: blockatlas 1_133
+  - first:
+      213: 4167306660282922529
+    second: blockatlas 1_134
+  - first:
+      213: 1655423023285764252
+    second: blockatlas 1_135
+  - first:
+      213: -772133584693613015
+    second: blockatlas 1_136
+  - first:
+      213: 4509261171888646400
+    second: blockatlas 1_137
+  - first:
+      213: -5396252084612528478
+    second: blockatlas 1_138
+  - first:
+      213: -3180922758368801567
+    second: blockatlas 1_139
+  - first:
+      213: 4379757920217064983
+    second: blockatlas 1_140
+  - first:
+      213: -844286696077701726
+    second: blockatlas 1_141
+  - first:
+      213: 5403575055584804757
+    second: blockatlas 1_142
+  - first:
+      213: -2615852352961860274
+    second: blockatlas 1_143
+  - first:
+      213: 360961649354033496
+    second: blockatlas 1_144
+  - first:
+      213: -3635159506729498766
+    second: blockatlas 1_145
+  - first:
+      213: -5351439333438980952
+    second: blockatlas 1_146
+  - first:
+      213: -5487606921556797342
+    second: blockatlas 1_147
+  - first:
+      213: 7529008100770880794
+    second: blockatlas 1_148
+  - first:
+      213: 9136248466889664762
+    second: blockatlas 1_149
+  - first:
+      213: 3274563061068321721
+    second: blockatlas 1_150
+  - first:
+      213: -684060377971997630
+    second: blockatlas 1_151
+  - first:
+      213: -342748905242911817
+    second: blockatlas 1_152
+  - first:
+      213: 7147754406232444085
+    second: blockatlas 1_153
+  - first:
+      213: -3529398889552429424
+    second: blockatlas 1_154
+  - first:
+      213: -333193072319761898
+    second: blockatlas 1_155
+  - first:
+      213: -5383650834919845147
+    second: blockatlas 1_156
+  - first:
+      213: -453695599414733137
+    second: blockatlas 1_157
+  - first:
+      213: 8746118851212874374
+    second: blockatlas 1_158
+  - first:
+      213: -8222195202948979330
+    second: blockatlas 1_159
+  - first:
+      213: -7837875023314604045
+    second: blockatlas 1_160
+  - first:
+      213: 1288372939546386455
+    second: blockatlas 1_161
+  - first:
+      213: -2217806126793965022
+    second: blockatlas 1_162
+  - first:
+      213: -8296696455866837985
+    second: blockatlas 1_163
+  - first:
+      213: 5727378662364919992
+    second: blockatlas 1_164
+  - first:
+      213: -4416731567603677589
+    second: blockatlas 1_165
+  - first:
+      213: -920767988376585319
+    second: blockatlas 1_166
+  - first:
+      213: 5812125076653420144
+    second: blockatlas 1_167
+  - first:
+      213: -2811975364177773275
+    second: blockatlas 1_168
+  - first:
+      213: -4099753067698043710
+    second: blockatlas 1_169
+  - first:
+      213: -4924832621508085306
+    second: blockatlas 1_170
+  - first:
+      213: -1671203623355790574
+    second: blockatlas 1_171
+  - first:
+      213: 479968906370238908
+    second: blockatlas 1_172
+  - first:
+      213: -6492923202574663618
+    second: blockatlas 1_173
+  - first:
+      213: 8993426022577115192
+    second: blockatlas 1_174
+  - first:
+      213: 3705058680742377302
+    second: blockatlas 1_175
+  - first:
+      213: 1304531247194913059
+    second: blockatlas 1_176
+  - first:
+      213: 963167849650715033
+    second: blockatlas 1_177
+  - first:
+      213: 6498844132787652974
+    second: blockatlas 1_178
+  - first:
+      213: 7918687760890648779
+    second: blockatlas 1_179
+  - first:
+      213: 8977179812372785257
+    second: blockatlas 1_180
+  - first:
+      213: -5101104415801251680
+    second: blockatlas 1_181
+  - first:
+      213: -3564323532497442915
+    second: blockatlas 1_182
+  - first:
+      213: -6941719391330613671
+    second: blockatlas 1_183
+  - first:
+      213: -1622503417047570346
+    second: blockatlas 1_184
+  - first:
+      213: 709167928897203219
+    second: blockatlas 1_185
+  - first:
+      213: 1488848442716277289
+    second: blockatlas 1_186
+  - first:
+      213: 8016930783972224752
+    second: blockatlas 1_187
+  - first:
+      213: 230111293067505187
+    second: blockatlas 1_188
+  - first:
+      213: -5068066747717068374
+    second: blockatlas 1_189
+  - first:
+      213: 1767747092153531713
+    second: blockatlas 1_190
+  - first:
+      213: 8017875872956805294
+    second: blockatlas 1_191
+  - first:
+      213: 6891058617950544365
+    second: blockatlas 1_192
+  - first:
+      213: 4964365490296108709
+    second: blockatlas 1_193
+  - first:
+      213: -8583685298847396448
+    second: blockatlas 1_194
+  - first:
+      213: 8531297023685052880
+    second: blockatlas 1_195
+  - first:
+      213: -4092704870998897204
+    second: blockatlas 1_196
+  - first:
+      213: -1307173759843170586
+    second: blockatlas 1_197
+  - first:
+      213: 5530849973664551737
+    second: blockatlas 1_198
+  - first:
+      213: -8227237614129949932
+    second: blockatlas 1_199
+  - first:
+      213: -3899349495201532069
+    second: blockatlas 1_200
+  - first:
+      213: -6593992778180952814
+    second: blockatlas 1_201
+  - first:
+      213: -129719638298922921
+    second: blockatlas 1_202
+  - first:
+      213: 7498914975157926617
+    second: blockatlas 1_203
+  - first:
+      213: -7241269883716244377
+    second: blockatlas 1_204
+  - first:
+      213: -351812925248978034
+    second: blockatlas 1_205
+  - first:
+      213: -1844887972096105654
+    second: blockatlas 1_206
+  - first:
+      213: 8795487177160738399
+    second: blockatlas 1_207
+  - first:
+      213: -1135302877891497741
+    second: blockatlas 1_208
+  - first:
+      213: 712121959927083459
+    second: blockatlas 1_209
+  - first:
+      213: 4804701393394649350
+    second: blockatlas 1_210
+  - first:
+      213: 1418282255209596866
+    second: blockatlas 1_211
+  - first:
+      213: -2647243780835457930
+    second: blockatlas 1_212
+  - first:
+      213: -4708500634645346231
+    second: blockatlas 1_213
+  - first:
+      213: 3737989446136206465
+    second: blockatlas 1_214
+  - first:
+      213: -8896555249602092090
+    second: blockatlas 1_215
+  - first:
+      213: -1119622083796276532
+    second: blockatlas 1_216
+  - first:
+      213: 2912146329173159605
+    second: blockatlas 1_217
+  - first:
+      213: -4837471073104924398
+    second: blockatlas 1_218
+  - first:
+      213: 9052668816570082591
+    second: blockatlas 1_219
+  - first:
+      213: -1856592083037692191
+    second: blockatlas 1_220
+  - first:
+      213: -797569737454186561
+    second: blockatlas 1_221
+  - first:
+      213: -6076425091738262337
+    second: blockatlas 1_222
+  - first:
+      213: 1076306050203629298
+    second: blockatlas 1_223
+  - first:
+      213: -7692767155329384889
+    second: blockatlas 1_224
+  - first:
+      213: 7868779959637740728
+    second: blockatlas 1_225
+  - first:
+      213: 7449097253561964607
+    second: blockatlas 1_226
+  - first:
+      213: 7382195134662946598
+    second: blockatlas 1_227
+  - first:
+      213: 4142259414585463271
+    second: blockatlas 1_228
+  - first:
+      213: -5136415117327224679
+    second: blockatlas 1_229
+  - first:
+      213: -7617651554140220594
+    second: blockatlas 1_230
+  - first:
+      213: -703332524215324729
+    second: blockatlas 1_231
+  - first:
+      213: 7832194031178012735
+    second: blockatlas 1_232
+  - first:
+      213: 3769049964919030216
+    second: blockatlas 1_233
+  - first:
+      213: -2957420012861808902
+    second: blockatlas 1_234
+  - first:
+      213: -6882457605341570644
+    second: blockatlas 1_235
+  - first:
+      213: -4718212715891516144
+    second: blockatlas 1_236
+  - first:
+      213: -7401585021713118212
+    second: blockatlas 1_237
+  - first:
+      213: 7948261814592063614
+    second: blockatlas 1_238
+  - first:
+      213: 864006001587362741
+    second: blockatlas 1_239
+  - first:
+      213: 8308621231130308543
+    second: blockatlas 1_240
+  - first:
+      213: 8416161429085782788
+    second: blockatlas 1_241
+  - first:
+      213: -2945061505806781489
+    second: blockatlas 1_242
+  - first:
+      213: -8471397328568467606
+    second: blockatlas 1_243
+  - first:
+      213: 6455707421831196580
+    second: blockatlas 1_244
+  - first:
+      213: 5560555076546479510
+    second: blockatlas 1_245
+  - first:
+      213: 6132512107157317322
+    second: blockatlas 1_246
+  - first:
+      213: 7527728777106129727
+    second: blockatlas 1_247
+  - first:
+      213: 6120488792645379128
+    second: blockatlas 1_248
+  - first:
+      213: -5685456529460585520
+    second: blockatlas 1_249
+  - first:
+      213: 1497132721442532419
+    second: blockatlas 1_250
+  - first:
+      213: -4805311230130629910
+    second: blockatlas 1_251
+  - first:
+      213: 2182544541236700455
+    second: blockatlas 1_252
+  - first:
+      213: 6713187192647840843
+    second: blockatlas 1_253
+  - first:
+      213: 9001021392525903940
+    second: blockatlas 1_254
+  - first:
+      213: 1986355340160208387
+    second: blockatlas 1_255
+  - first:
+      213: 1070875922068804035
+    second: blockatlas 1_0
+  - first:
+      213: -381064128653442103
+    second: blockatlas 1_1
+  - first:
+      213: -8943724205745921961
+    second: blockatlas 1_2
+  - first:
+      213: 3423532357011649889
+    second: blockatlas 1_3
+  - first:
+      213: 3389485916877261637
+    second: blockatlas 1_4
+  - first:
+      213: 8653816299577395614
+    second: blockatlas 1_5
+  - first:
+      213: 8648316505840075593
+    second: blockatlas 1_6
+  - first:
+      213: -7190511494470684376
+    second: blockatlas 1_7
+  - first:
+      213: 1080386023898373298
+    second: blockatlas 1_8
+  - first:
+      213: 846101136007515729
+    second: blockatlas 1_9
+  - first:
+      213: -3083290183099916000
+    second: blockatlas 1_10
+  - first:
+      213: -4488946851490917020
+    second: blockatlas 1_11
+  - first:
+      213: 7508868570899375829
+    second: blockatlas 1_12
+  - first:
+      213: -5696500975389405039
+    second: blockatlas 1_13
+  - first:
+      213: -9080010678531287635
+    second: blockatlas 1_14
+  - first:
+      213: 8229409847791656893
+    second: blockatlas 1_15
+  - first:
+      213: -4184820073052135660
+    second: blockatlas 1_16
+  - first:
+      213: -8192306007882349693
+    second: blockatlas 1_17
+  - first:
+      213: 4932386955086999637
+    second: blockatlas 1_18
+  - first:
+      213: 3051915157866084464
+    second: blockatlas 1_19
+  - first:
+      213: 504741765099740599
+    second: blockatlas 1_20
+  - first:
+      213: -2309522224751648600
+    second: blockatlas 1_21
+  - first:
+      213: -3349896230963756529
+    second: blockatlas 1_22
+  - first:
+      213: -2946381657614351314
+    second: blockatlas 1_23
+  - first:
+      213: 1785639905135176309
+    second: blockatlas 1_24
+  - first:
+      213: -675896284088791939
+    second: blockatlas 1_25
+  - first:
+      213: 6760044103730041485
+    second: blockatlas 1_26
+  - first:
+      213: -1252325628871154891
+    second: blockatlas 1_27
+  - first:
+      213: 6155732810120699858
+    second: blockatlas 1_28
+  - first:
+      213: 2589621598320942511
+    second: blockatlas 1_29
+  - first:
+      213: -1165461283163211851
+    second: blockatlas 1_30
+  - first:
+      213: -4081586654294871306
+    second: blockatlas 1_31
+  - first:
+      213: -7027483388485815553
+    second: blockatlas 1_32
+  - first:
+      213: 5034827533277010995
+    second: blockatlas 1_33
+  - first:
+      213: -3574229532589758018
+    second: blockatlas 1_34
+  - first:
+      213: 6770381146408963114
+    second: blockatlas 1_35
+  - first:
+      213: -4792782902463813591
+    second: blockatlas 1_36
+  - first:
+      213: -5016447875745965822
+    second: blockatlas 1_37
+  - first:
+      213: -9126096652279184609
+    second: blockatlas 1_38
+  - first:
+      213: 4321358850622090275
+    second: blockatlas 1_39
+  - first:
+      213: -3110434224227727622
+    second: blockatlas 1_40
+  - first:
+      213: 6042500268710249863
+    second: blockatlas 1_41
+  - first:
+      213: -5905692960858880442
+    second: blockatlas 1_42
+  - first:
+      213: -4585042469678083929
+    second: blockatlas 1_43
+  - first:
+      213: -6445542433225949183
+    second: blockatlas 1_44
+  - first:
+      213: -740011278130799841
+    second: blockatlas 1_45
+  - first:
+      213: -7963996449203681176
+    second: blockatlas 1_46
+  - first:
+      213: -2012470939524440307
+    second: blockatlas 1_47
+  - first:
+      213: 3746874067078809338
+    second: blockatlas 1_48
+  - first:
+      213: -7191366516407506959
+    second: blockatlas 1_49
+  - first:
+      213: 5472131305182278283
+    second: blockatlas 1_50
+  - first:
+      213: -5723672918513476801
+    second: blockatlas 1_51
+  - first:
+      213: 3792308224754985804
+    second: blockatlas 1_52
+  - first:
+      213: -7748065315201207917
+    second: blockatlas 1_53
+  - first:
+      213: 254526049253861420
+    second: blockatlas 1_54
+  - first:
+      213: 7004979356696010833
+    second: blockatlas 1_55
+  - first:
+      213: 3804076411495568534
+    second: blockatlas 1_56
+  - first:
+      213: -8094762129397757833
+    second: blockatlas 1_57
+  - first:
+      213: -7154869570119497000
+    second: blockatlas 1_58
+  - first:
+      213: -3349402279465687725
+    second: blockatlas 1_59
+  - first:
+      213: 7961162769816397150
+    second: blockatlas 1_60
+  - first:
+      213: -1343644914839993283
+    second: blockatlas 1_61
+  - first:
+      213: 8183978687558236106
+    second: blockatlas 1_62
+  - first:
+      213: 1867380231374836426
+    second: blockatlas 1_63
+  - first:
+      213: -264064320470687665
+    second: blockatlas 1_64
+  - first:
+      213: 6707538340651690348
+    second: blockatlas 1_65
+  - first:
+      213: -1232891956656413075
+    second: blockatlas 1_66
+  - first:
+      213: 6482764364190157115
+    second: blockatlas 1_67
+  - first:
+      213: -620718234458407310
+    second: blockatlas 1_68
+  - first:
+      213: -3255144510939376656
+    second: blockatlas 1_69
+  - first:
+      213: 8422984055693548100
+    second: blockatlas 1_70
+  - first:
+      213: 5952500771460022502
+    second: blockatlas 1_71
+  - first:
+      213: -6939726766559189307
+    second: blockatlas 1_72
+  - first:
+      213: -2314716632630726591
+    second: blockatlas 1_73
+  - first:
+      213: 3926496490232181664
+    second: blockatlas 1_74
+  - first:
+      213: -1457261960029455558
+    second: blockatlas 1_75
+  - first:
+      213: 3210641345425662186
+    second: blockatlas 1_76
+  - first:
+      213: 8798980786310429546
+    second: blockatlas 1_77
+  - first:
+      213: -5789193264268430338
+    second: blockatlas 1_78
+  - first:
+      213: 7381793850319741167
+    second: blockatlas 1_79
+  - first:
+      213: -1407171762548153322
+    second: blockatlas 1_80
+  - first:
+      213: 1002052198921504849
+    second: blockatlas 1_81
+  - first:
+      213: 1268782320378196221
+    second: blockatlas 1_82
+  - first:
+      213: 5861161362574306361
+    second: blockatlas 1_83
+  - first:
+      213: -2000041834832404605
+    second: blockatlas 1_84
+  - first:
+      213: -7627825592512365385
+    second: blockatlas 1_85
+  - first:
+      213: -5504333386794414755
+    second: blockatlas 1_86
+  - first:
+      213: -8986983141094386166
+    second: blockatlas 1_87
+  - first:
+      213: 4325114510245286046
+    second: blockatlas 1_88
+  - first:
+      213: 3571937917253334264
+    second: blockatlas 1_89
+  - first:
+      213: -3787228993368969297
+    second: blockatlas 1_90
+  - first:
+      213: 5953231303174171948
+    second: blockatlas 1_91
+  - first:
+      213: 7538380244059915271
+    second: blockatlas 1_92
+  - first:
+      213: 7785806710172263595
+    second: blockatlas 1_93
+  - first:
+      213: 9054785819296664324
+    second: blockatlas 1_94
+  - first:
+      213: -7013403256464083528
+    second: blockatlas 1_95
+  - first:
+      213: 7944753715053966661
+    second: blockatlas 1_96
+  - first:
+      213: 8786957535839597438
+    second: blockatlas 1_97
+  - first:
+      213: 6136907210779973966
+    second: blockatlas 1_98
+  - first:
+      213: 3685785298120514539
+    second: blockatlas 1_99
+  - first:
+      213: -5775555673012548776
+    second: blockatlas 1_100
+  - first:
+      213: 6469471373542951076
+    second: blockatlas 1_101
+  - first:
+      213: 8252106786555071927
+    second: blockatlas 1_102
+  - first:
+      213: 6721168684396361176
+    second: blockatlas 1_103
+  - first:
+      213: 3392538016783842547
+    second: blockatlas 1_104
+  - first:
+      213: 8661746201284837723
+    second: blockatlas 1_105
+  - first:
+      213: -3857225459794645334
+    second: blockatlas 1_106
+  - first:
+      213: 8349540253436149553
+    second: blockatlas 1_107
+  - first:
+      213: -8947698917191027806
+    second: blockatlas 1_108
+  - first:
+      213: 373309511912059615
+    second: blockatlas 1_109
+  - first:
+      213: 5542281609352272357
+    second: blockatlas 1_110
+  - first:
+      213: 5684983351601246876
+    second: blockatlas 1_111
+  - first:
+      213: -2795077222084953770
+    second: blockatlas 1_112
+  - first:
+      213: 4629325004140845689
+    second: blockatlas 1_113
+  - first:
+      213: -4721847395340193181
+    second: blockatlas 1_114
+  - first:
+      213: -6790930347396511277
+    second: blockatlas 1_115
+  - first:
+      213: 1450906209498908900
+    second: blockatlas 1_116
+  - first:
+      213: -2524487177657265748
+    second: blockatlas 1_117
+  - first:
+      213: 2066728790157404987
+    second: blockatlas 1_118
+  - first:
+      213: -3884782026062817452
+    second: blockatlas 1_119
+  - first:
+      213: -7129376012912444817
+    second: blockatlas 1_120
+  - first:
+      213: -6945729704003407222
+    second: blockatlas 1_121
+  - first:
+      213: 7052013515790946921
+    second: blockatlas 1_122
+  - first:
+      213: 6917925496420254724
+    second: blockatlas 1_123
+  - first:
+      213: 5011539450920131160
+    second: blockatlas 1_124
+  - first:
+      213: 8094769934483117469
+    second: blockatlas 1_125
+  - first:
+      213: -1960050727588503874
+    second: blockatlas 1_126
+  - first:
+      213: 1949089382296267824
+    second: blockatlas 1_127
+  - first:
+      213: 5198449707258448464
+    second: blockatlas 1_128
+  - first:
+      213: -8209810483050061364
+    second: blockatlas 1_129
+  - first:
+      213: -1935821048785265341
+    second: blockatlas 1_130
+  - first:
+      213: 6524503383298916051
+    second: blockatlas 1_131
+  - first:
+      213: -5037853874422606266
+    second: blockatlas 1_132
+  - first:
+      213: 2701594052695252065
+    second: blockatlas 1_133
+  - first:
+      213: 9186351804321033725
+    second: blockatlas 1_134
+  - first:
+      213: -7791371477005438644
+    second: blockatlas 1_135
+  - first:
+      213: -3585373447714006831
+    second: blockatlas 1_136
+  - first:
+      213: -557336556467143919
+    second: blockatlas 1_137
+  - first:
+      213: -72747588277951273
+    second: blockatlas 1_138
+  - first:
+      213: -765391528397593216
+    second: blockatlas 1_139
+  - first:
+      213: -3297793349517676052
+    second: blockatlas 1_140
+  - first:
+      213: -3215934750576428910
+    second: blockatlas 1_141
+  - first:
+      213: -4347331557419865791
+    second: blockatlas 1_142
+  - first:
+      213: -1823380774942818092
+    second: blockatlas 1_143
+  - first:
+      213: -3765901060024248730
+    second: blockatlas 1_144
+  - first:
+      213: -5350298891337816185
+    second: blockatlas 1_145
+  - first:
+      213: -7678817217977546722
+    second: blockatlas 1_146
+  - first:
+      213: -33445609372390949
+    second: blockatlas 1_147
+  - first:
+      213: -7432229833128652107
+    second: blockatlas 1_148
+  - first:
+      213: 25562205517806481
+    second: blockatlas 1_149
+  - first:
+      213: -8252373944611817294
+    second: blockatlas 1_150
+  - first:
+      213: 3250146908296254469
+    second: blockatlas 1_151
+  - first:
+      213: 1589454315866891168
+    second: blockatlas 1_152
+  - first:
+      213: -7424743236714867113
+    second: blockatlas 1_153
+  - first:
+      213: 3469106868195353410
+    second: blockatlas 1_154
+  - first:
+      213: 5727425906214573458
+    second: blockatlas 1_155
+  - first:
+      213: 5419900581212387290
+    second: blockatlas 1_156
+  - first:
+      213: -1305268029514867450
+    second: blockatlas 1_157
+  - first:
+      213: 5884087553943966432
+    second: blockatlas 1_158
+  - first:
+      213: -6242022972493260194
+    second: blockatlas 1_159
+  - first:
+      213: 3012879608810351480
+    second: blockatlas 1_160
+  - first:
+      213: 709480170563510719
+    second: blockatlas 1_161
+  - first:
+      213: 8723372070488817306
+    second: blockatlas 1_162
+  - first:
+      213: 5115397495713097740
+    second: blockatlas 1_163
+  - first:
+      213: 8348338182255318130
+    second: blockatlas 1_164
+  - first:
+      213: 7836556149544894585
+    second: blockatlas 1_165
+  - first:
+      213: -6275542600757512565
+    second: blockatlas 1_166
+  - first:
+      213: -8853319808499646223
+    second: blockatlas 1_167
+  - first:
+      213: 8596570862010623603
+    second: blockatlas 1_168
+  - first:
+      213: 9114264916588299461
+    second: blockatlas 1_169
+  - first:
+      213: 15226358721351225
+    second: blockatlas 1_170
+  - first:
+      213: -5320009876873282640
+    second: blockatlas 1_171
+  - first:
+      213: 5665213977216860017
+    second: blockatlas 1_172
+  - first:
+      213: 4456069186096181292
+    second: blockatlas 1_173
+  - first:
+      213: 4265786047474537843
+    second: blockatlas 1_174
+  - first:
+      213: 8137128490050997189
+    second: blockatlas 1_175
+  - first:
+      213: -1952077911355276341
+    second: blockatlas 1_176
+  - first:
+      213: -365153584293398295
+    second: blockatlas 1_177
+  - first:
+      213: 2064626657453991103
+    second: blockatlas 1_178
+  - first:
+      213: -6360474319050421616
+    second: blockatlas 1_179
+  - first:
+      213: 8813803484066705238
+    second: blockatlas 1_180
+  - first:
+      213: -295851547353241157
+    second: blockatlas 1_181
+  - first:
+      213: -2723869061893019740
+    second: blockatlas 1_182
+  - first:
+      213: -5737537101793956276
+    second: blockatlas 1_183
+  - first:
+      213: -3310985635676686490
+    second: blockatlas 1_184
+  - first:
+      213: 125535001853556525
+    second: blockatlas 1_185
+  - first:
+      213: 8480398953939643192
+    second: blockatlas 1_186
+  - first:
+      213: 7879329050544697526
+    second: blockatlas 1_187
+  - first:
+      213: -2926398418122197533
+    second: blockatlas 1_188
+  - first:
+      213: 5449232098241319797
+    second: blockatlas 1_189
+  - first:
+      213: 1835572566558133145
+    second: blockatlas 1_190
+  - first:
+      213: -8261783653610103195
+    second: blockatlas 1_191
+  - first:
+      213: 5899645232328010386
+    second: blockatlas 1_192
+  - first:
+      213: 7684277385657059926
+    second: blockatlas 1_193
+  - first:
+      213: -7373713042180594963
+    second: blockatlas 1_194
+  - first:
+      213: -4282926324230520145
+    second: blockatlas 1_195
+  - first:
+      213: -1921571003793137619
+    second: blockatlas 1_196
+  - first:
+      213: 2248061995800424499
+    second: blockatlas 1_197
+  - first:
+      213: 6229982865713778209
+    second: blockatlas 1_198
+  - first:
+      213: -249703818564669792
+    second: blockatlas 1_199
+  - first:
+      213: 3482430695727474573
+    second: blockatlas 1_200
+  - first:
+      213: 581473822455611363
+    second: blockatlas 1_201
+  - first:
+      213: -3138973539918339454
+    second: blockatlas 1_202
+  - first:
+      213: -2492827350200020312
+    second: blockatlas 1_203
+  - first:
+      213: 2804353418942925298
+    second: blockatlas 1_204
+  - first:
+      213: 6819105434260357086
+    second: blockatlas 1_205
+  - first:
+      213: -7923802834227047641
+    second: blockatlas 1_206
+  - first:
+      213: -8807301057931183970
+    second: blockatlas 1_207
+  - first:
+      213: -7478718721700784403
+    second: blockatlas 1_208
+  - first:
+      213: 3938799537322640699
+    second: blockatlas 1_209
+  - first:
+      213: 7420233788178114335
+    second: blockatlas 1_210
+  - first:
+      213: -4691367329597202363
+    second: blockatlas 1_211
+  - first:
+      213: -3105168200937725018
+    second: blockatlas 1_212
+  - first:
+      213: -5171368353872358780
+    second: blockatlas 1_213
+  - first:
+      213: -1224381600367826945
+    second: blockatlas 1_214
+  - first:
+      213: 586324951515365934
+    second: blockatlas 1_215
+  - first:
+      213: 5300559490965974924
+    second: blockatlas 1_216
+  - first:
+      213: -601537252474549708
+    second: blockatlas 1_217
+  - first:
+      213: -8001480706271441360
+    second: blockatlas 1_218
+  - first:
+      213: 4242475854829287641
+    second: blockatlas 1_219
+  - first:
+      213: -4071151300628982375
+    second: blockatlas 1_220
+  - first:
+      213: -884663094632382640
+    second: blockatlas 1_221
+  - first:
+      213: 5664947486635955053
+    second: blockatlas 1_222
+  - first:
+      213: -5135476960941207198
+    second: blockatlas 1_223
+  - first:
+      213: 722256831815348489
+    second: blockatlas 1_224
+  - first:
+      213: -476573267612791704
+    second: blockatlas 1_225
+  - first:
+      213: 2152334266664702854
+    second: blockatlas 1_226
+  - first:
+      213: 3048071267123623253
+    second: blockatlas 1_227
+  - first:
+      213: -2066974446481108166
+    second: blockatlas 1_228
+  - first:
+      213: -3665395858757728176
+    second: blockatlas 1_229
+  - first:
+      213: -3647694273784589161
+    second: blockatlas 1_230
+  - first:
+      213: -5108733936383869067
+    second: blockatlas 1_231
+  - first:
+      213: 6506842250615765271
+    second: blockatlas 1_232
+  - first:
+      213: -2627345049768678385
+    second: blockatlas 1_233
+  - first:
+      213: -8598399029197451249
+    second: blockatlas 1_234
+  - first:
+      213: -8034268336118863061
+    second: blockatlas 1_235
+  - first:
+      213: 7885732910268510501
+    second: blockatlas 1_236
+  - first:
+      213: -4311525834403507392
+    second: blockatlas 1_237
+  - first:
+      213: -5149056550025824879
+    second: blockatlas 1_238
+  - first:
+      213: -3351438948581485521
+    second: blockatlas 1_239
+  - first:
+      213: 7401729540187857994
+    second: blockatlas 1_240
+  - first:
+      213: -319781810133861499
+    second: blockatlas 1_241
+  - first:
+      213: -7448528794072787496
+    second: blockatlas 1_242
+  - first:
+      213: 2072789725439590213
+    second: blockatlas 1_243
+  - first:
+      213: -3198000075464881069
+    second: blockatlas 1_244
+  - first:
+      213: -6724026654978362494
+    second: blockatlas 1_245
+  - first:
+      213: -548345997987636748
+    second: blockatlas 1_246
+  - first:
+      213: -8780581163000839761
+    second: blockatlas 1_247
+  - first:
+      213: -8266973046356266069
+    second: blockatlas 1_248
+  - first:
+      213: 500942504216312375
+    second: blockatlas 1_249
+  - first:
+      213: 7210818262867109688
+    second: blockatlas 1_250
+  - first:
+      213: 6258887103269864239
+    second: blockatlas 1_251
+  - first:
+      213: 4275177172140636618
+    second: blockatlas 1_252
+  - first:
+      213: -3928061734583104631
+    second: blockatlas 1_253
+  - first:
+      213: 4972552860406540481
+    second: blockatlas 1_254
+  - first:
+      213: -1768323057342386070
+    second: blockatlas 1_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blockatlas 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11e653af38cde00800000000000000
+      internalID: 1070875922068804035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3c7f6a13036baf0800000000000000
+      internalID: -381064128653442103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a373883281e380800000000000000
+      internalID: -8943724205745921961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653cb04a84d28f20800000000000000
+      internalID: 3423532357011649889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b88aeab7fd90f20800000000000000
+      internalID: 3389485916877261637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99cbc71318881870800000000000000
+      internalID: 8653816299577395614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ceb39a0ef40870800000000000000
+      internalID: 8648316505840075593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82136ba84eb263c90800000000000000
+      internalID: -7190511494470684376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc52c65d5d4efe00800000000000000
+      internalID: 1080386023898373298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e48c71084fdbb00800000000000000
+      internalID: 846101136007515729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02161e81ae3f535d0800000000000000
+      internalID: -3083290183099916000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465964d3f9e04b1c0800000000000000
+      internalID: -4488946851490917020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66d897e2cd43860800000000000000
+      internalID: 7508868570899375829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909f335b86f1f0b0800000000000000
+      internalID: -5696500975389405039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5936555625df180800000000000000
+      internalID: -9080010678531287635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf19b0c7acb43270800000000000000
+      internalID: 8229409847791656893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9dc0d0588ce5c0800000000000000
+      internalID: -4184820073052135660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cfdc27151f4e80800000000000000
+      internalID: -8192306007882349693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5503bb08dcb537440800000000000000
+      internalID: 4932386955086999637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078fc359aa49a5a20800000000000000
+      internalID: 3051915157866084464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd21c06f3310700800000000000000
+      internalID: 504741765099740599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0eec0e5cde2ffd0800000000000000
+      internalID: -2309522224751648600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024cfe5027c281d0800000000000000
+      internalID: -3349896230963756529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248b253e795c17d0800000000000000
+      internalID: -2946381657614351314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2852780ed7c810800000000000000
+      internalID: 1785639905135176309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c81e129ebbe96f0800000000000000
+      internalID: -675896284088791939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d829dcccb4080dd50800000000000000
+      internalID: 6760044103730041485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_27
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336404c978de9ee0800000000000000
+      internalID: -1252325628871154891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df1677506e8d6550800000000000000
+      internalID: 6155732810120699858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad599e8f1f20f320800000000000000
+      internalID: 2589621598320942511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_30
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f599432373dfe0800000000000000
+      internalID: -1165461283163211851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1120
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f277c6209a4b57c0800000000000000
+      internalID: -4081586654294871306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff23854671d597e90800000000000000
+      internalID: -7027483388485815553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c155247fc4fd540800000000000000
+      internalID: 5034827533277010995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e64c5d29c56ec0800000000000000
+      internalID: -3574229532589758018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c45b918c935fd50800000000000000
+      internalID: 6770381146408963114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928241de75d9c7db0800000000000000
+      internalID: -4792782902463813591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20916eb3c3ff16ab0800000000000000
+      internalID: -5016447875745965822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1384076277995180800000000000000
+      internalID: -9126096652279184609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce156aafc88fb30800000000000000
+      internalID: 4321358850622090275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af640b78d8485d4d0800000000000000
+      internalID: -3110434224227727622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_41
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7854da7daf54bd350800000000000000
+      internalID: 6042500268710249863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464b73ba83ca0ea0800000000000000
+      internalID: -5905692960858880442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_43
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a012ca9a28ae50c0800000000000000
+      internalID: -4585042469678083929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_44
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004cd29e45dc86a0800000000000000
+      internalID: -6445542433225949183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_45
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1b3dc9a3fab5f0800000000000000
+      internalID: -740011278130799841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_46
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8680ebcac633a7190800000000000000
+      internalID: -7963996449203681176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_47
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1040
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f59d0d7544214e0800000000000000
+      internalID: -2012470939524440307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60b5abc129ff330800000000000000
+      internalID: 3746874067078809338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f764eb3142233c90800000000000000
+      internalID: -7191366516407506959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b823fa1fd6ae0fb40800000000000000
+      internalID: 5472131305182278283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1b715ecd6190b0800000000000000
+      internalID: -5723672918513476801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b2057ec3cf0a430800000000000000
+      internalID: 3792308224754985804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39138e695a7597490800000000000000
+      internalID: -7748065315201207917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282cdfd712488300800000000000000
+      internalID: 254526049253861420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_55
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506fc66c9fa63160800000000000000
+      internalID: 7004979356696010833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694d2a5675bcac430800000000000000
+      internalID: 3804076411495568534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77846ff2bb0a9af80800000000000000
+      internalID: -8094762129397757833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_58
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da86cab80cc4bc90800000000000000
+      internalID: -7154869570119497000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_59
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355609a6f588481d0800000000000000
+      internalID: -3349402279465687725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_60
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a8fdeb5bbb7e60800000000000000
+      internalID: 7961162769816397150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_61
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c3b2a11a6a5de0800000000000000
+      internalID: -1343644914839993283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_62
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b6497145539170800000000000000
+      internalID: 8183978687558236106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 960
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac21fa73d644ae910800000000000000
+      internalID: 1867380231374836426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406d7c46ead55cf0800000000000000
+      internalID: -264064320470687665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c696bdf2596f51d50800000000000000
+      internalID: 6707538340651690348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ee0d2c43e3eee0800000000000000
+      internalID: -1232891956656413075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398d1297d767f950800000000000000
+      internalID: 6482764364190157115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ebf71fd04c267f0800000000000000
+      internalID: -620718234458407310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f355e4505763d2d0800000000000000
+      internalID: -3255144510939376656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a946c2f5374e470800000000000000
+      internalID: 8422984055693548100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_71
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00d18f9e78b9250800000000000000
+      internalID: 5952500771460022502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_72
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c628f8264321bf90800000000000000
+      internalID: -6939726766559189307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407b5c8c7970efd0800000000000000
+      internalID: -2314716632630726591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37b1021c7bd7630800000000000000
+      internalID: 3926496490232181664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_75
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b31cfd7f3c6cbe0800000000000000
+      internalID: -1457261960029455558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_76
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0674ffa4d7e8c20800000000000000
+      internalID: 3210641345425662186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_77
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b3589f7624c1a70800000000000000
+      internalID: 8798980786310429546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3323b0667a8afa0800000000000000
+      internalID: -5789193264268430338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_79
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 880
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a87d7566617660800000000000000
+      internalID: 7381793850319741167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146b5bccb8b87ce0800000000000000
+      internalID: -1407171762548153322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1588d137a2108ed00800000000000000
+      internalID: 1002052198921504849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0307f4cce9b9110800000000000000
+      internalID: 1268782320378196221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6c7b9437075150800000000000000
+      internalID: 5861161362574306361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fd4e24c8c6e34e0800000000000000
+      internalID: -2000041834832404605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcbaad9905842690800000000000000
+      internalID: -7627825592512365385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_86
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dcbcaa2fdac93b0800000000000000
+      internalID: -5504333386794414755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0615a0c272d74380800000000000000
+      internalID: -8986983141094386166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_88
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90de0c4bb4e50c30800000000000000
+      internalID: 4325114510245286046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_89
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f432ad5c92129130800000000000000
+      internalID: 3571937917253334264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_90
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafae2fcb4f017bc0800000000000000
+      internalID: -3787228993368969297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_91
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dae6324502e9250800000000000000
+      internalID: 5953231303174171948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704830554e4bd9860800000000000000
+      internalID: 7538380244059915271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_93
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4aba1b3fdbc0c60800000000000000
+      internalID: 7785806710172263595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_94
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b0c647abf09ad70800000000000000
+      internalID: 9054785819296664324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_95
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f3e795e26bae90800000000000000
+      internalID: -7013403256464083528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b1c5296f614e60800000000000000
+      internalID: 7944753715053966661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e733924d25b81f970800000000000000
+      internalID: 8786957535839597438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d21ee79caa2550800000000000000
+      internalID: 6136907210779973966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb94d4533a862330800000000000000
+      internalID: 3685785298120514539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b489137ba19dfa0800000000000000
+      internalID: -5775555673012548776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8069000fd28c950800000000000000
+      internalID: 6469471373542951076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd843d966f558270800000000000000
+      internalID: 8252106786555071927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5bce4ee43664d50800000000000000
+      internalID: 6721168684396361176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_104
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb8611a57b41f20800000000000000
+      internalID: 3392538016783842547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510c263744b43870800000000000000
+      internalID: 8661746201284837723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee85a71e1687ac0800000000000000
+      internalID: -3857225459794645334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_107
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ff2eb6f968fd370800000000000000
+      internalID: 8349540253436149553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_108
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a37ea3ed3363d380800000000000000
+      internalID: -8947698917191027806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_109
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2fac0f5034e2500800000000000000
+      internalID: 373309511912059615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_110
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95f9a62c32aec40800000000000000
+      internalID: 5542281609352272357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_111
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b33aec3e15ee40800000000000000
+      internalID: 5684983351601246876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65937d15314e539d0800000000000000
+      internalID: -2795077222084953770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_113
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a16a5609aae3040800000000000000
+      internalID: 4629325004140845689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f425bfc0a87eb0800000000000000
+      internalID: -4721847395340193181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c20534d4c1c1a0800000000000000
+      internalID: -6790930347396511277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84793a287a22410800000000000000
+      internalID: 1450906209498908900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_117
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d5b7894837fcd0800000000000000
+      internalID: -2524487177657265748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_118
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ba76872ee7eac10800000000000000
+      internalID: 2066728790157404987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45714ba645b761ac0800000000000000
+      internalID: -3884782026062817452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab9201a4e5f0d90800000000000000
+      internalID: -7129376012912444817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_121
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a827ffe52afcb9f90800000000000000
+      internalID: -6945729704003407222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_122
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96219ffede8cdd160800000000000000
+      internalID: 7052013515790946921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_123
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044fb41698610060800000000000000
+      internalID: 6917925496420254724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a53fd04909c8540800000000000000
+      internalID: 5011539450920131160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_125
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d0631e56665070800000000000000
+      internalID: 8094769934483117469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_126
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe57508f308cc4e0800000000000000
+      internalID: -1960050727588503874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_127
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 640
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c214b677e8c0b10800000000000000
+      internalID: 1949089382296267824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8fd7577a942840800000000000000
+      internalID: 5198449707258448464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1e584fcd4e01e80800000000000000
+      internalID: -8209810483050061364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1e6633059225e0800000000000000
+      internalID: -1935821048785265341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3debd514241bb8a50800000000000000
+      internalID: 6524503383298916051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_132
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64617b8c792f51ab0800000000000000
+      internalID: -5037853874422606266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_133
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c553e2a7dfd7520800000000000000
+      internalID: 2701594052695252065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde25e6b4a7c7f70800000000000000
+      internalID: 9186351804321033725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_135
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41faff0cec7fd390800000000000000
+      internalID: -7791371477005438644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_136
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d893ed68d13e3ec0800000000000000
+      internalID: -3585373447714006831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_137
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bbf63da51f348f0800000000000000
+      internalID: -557336556467143919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42d62347c8dfef0800000000000000
+      internalID: -72747588277951273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_139
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a4cbc578c065f0800000000000000
+      internalID: -765391528397593216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_140
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17a5bcb62eb32d0800000000000000
+      internalID: -3297793349517676052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_141
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298be031264be53d0800000000000000
+      internalID: -3215934750576428910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_142
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a42f4bfc2ba3c0800000000000000
+      internalID: -4347331557419865791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_143
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 560
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0c14b88dc02b6e0800000000000000
+      internalID: -1823380774942818092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666dcf140f4dcbbc0800000000000000
+      internalID: -3765901060024248730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a4a3618befb5b0800000000000000
+      internalID: -5350298891337816185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_146
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188b43ac6c5f6590800000000000000
+      internalID: -7678817217977546722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_147
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ef0e356d298ff0800000000000000
+      internalID: -33445609372390949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_148
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25e4b285a6bd890800000000000000
+      internalID: -7432229833128652107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_149
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7093c0b0da5000800000000000000
+      internalID: 25562205517806481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b839bdce9da97d80800000000000000
+      internalID: -8252373944611817294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_151
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50415d0a467da1d20800000000000000
+      internalID: 3250146908296254469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a325fb6740ee0610800000000000000
+      internalID: 1589454315866891168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_153
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756502b3d5306f890800000000000000
+      internalID: -7424743236714867113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_154
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e6a6015eb42030800000000000000
+      internalID: 3469106868195353410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_155
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951a493487eb7f40800000000000000
+      internalID: 5727425906214573458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_156
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f81ddcda573b40800000000000000
+      internalID: 5419900581212387290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_157
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d971c84a1c2ede0800000000000000
+      internalID: -1305268029514867450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_158
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29020847a78a150800000000000000
+      internalID: 5884087553943966432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_159
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 480
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a16bc9d21ef59a0800000000000000
+      internalID: -6242022972493260194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba8229a06efc920800000000000000
+      internalID: 3012879608810351480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12f95c47498d900800000000000000
+      internalID: 709480170563510719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_162
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ebc010ea4af0970800000000000000
+      internalID: 8723372070488817306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_163
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e6e87bea8df640800000000000000
+      internalID: 5115397495713097740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274982a68514bd370800000000000000
+      internalID: 8348338182255318130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c6045c4a01cc60800000000000000
+      internalID: 7836556149544894585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_166
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86740df04bc8e8a0800000000000000
+      internalID: -6275542600757512565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_167
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f003738a80b22580800000000000000
+      internalID: -8853319808499646223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_168
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376ed9407a72d4770800000000000000
+      internalID: 8596570862010623603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_169
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40d06f6af5c7e70800000000000000
+      internalID: 9114264916588299461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_170
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0fc6ea48163000800000000000000
+      internalID: 15226358721351225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_171
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf56f14378b26b0800000000000000
+      internalID: -5320009876873282640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_172
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb690c812ee9e40800000000000000
+      internalID: 5665213977216860017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_173
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b3d3c05327dd30800000000000000
+      internalID: 4456069186096181292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_174
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375998f1fcd133b30800000000000000
+      internalID: 4265786047474537843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_175
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4335df33ece070800000000000000
+      internalID: 8137128490050997189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc348cf6b73d8e4e0800000000000000
+      internalID: -1952077911355276341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e83bbfefb6beeaf0800000000000000
+      internalID: -365153584293398295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e85f810707ac10800000000000000
+      internalID: 2064626657453991103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_179
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a410a5e4e0bb7a0800000000000000
+      internalID: -6360474319050421616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f65eb329be05a70800000000000000
+      internalID: 8813803484066705238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_181
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a2cdc59ce4ebf0800000000000000
+      internalID: -295851547353241157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_182
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a037158fd23ad0800000000000000
+      internalID: -2723869061893019740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_183
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e62f9976c2060b0800000000000000
+      internalID: -5737537101793956276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667f1115b140d02d0800000000000000
+      internalID: -3310985635676686490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_185
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27fb584b6dfdb100800000000000000
+      internalID: 125535001853556525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_186
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83baa23eaed60b570800000000000000
+      internalID: 8480398953939643192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_187
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f1266600095d60800000000000000
+      internalID: 7879329050544697526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_188
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5bf88b4285367d0800000000000000
+      internalID: -2926398418122197533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_189
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573945ad8bf8f9b40800000000000000
+      internalID: 5449232098241319797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_190
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b46252683497910800000000000000
+      internalID: 1835572566558133145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_191
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed0733a8f385d80800000000000000
+      internalID: -8261783653610103195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aecb5c410cfd150800000000000000
+      internalID: 5899645232328010386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a08a7b19904aa60800000000000000
+      internalID: 7684277385657059926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de229254e0f4ba990800000000000000
+      internalID: -7373713042180594963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa20215333dff84c0800000000000000
+      internalID: -4282926324230520145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20283c5a553555e0800000000000000
+      internalID: -1921571003793137619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_197
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3307db47978b23f10800000000000000
+      internalID: 2248061995800424499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec3a39868557650800000000000000
+      internalID: 6229982865713778209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_199
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee46333bfd88cf0800000000000000
+      internalID: -249703818564669792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_200
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a0cd5444145030800000000000000
+      internalID: 3482430695727474573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_201
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb7a95c5fc11800800000000000000
+      internalID: 581473822455611363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_202
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28221d942302074d0800000000000000
+      internalID: -3138973539918339454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_203
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a213f88bb2b76dd0800000000000000
+      internalID: -2492827350200020312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_204
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ceb093901be620800000000000000
+      internalID: 2804353418942925298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_205
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf3607634452ae50800000000000000
+      internalID: 6819105434260357086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_206
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723d9abed4ff80290800000000000000
+      internalID: -7923802834227047641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_207
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f614d95e26c580800000000000000
+      internalID: -8807301057931183970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de616f152f0463890800000000000000
+      internalID: -7478718721700784403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c69f7f4d69a630800000000000000
+      internalID: 3938799537322640699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1725b6f057f9f660800000000000000
+      internalID: 7420233788178114335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_211
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5406c78054ae4eeb0800000000000000
+      internalID: -4691367329597202363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_212
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3a44f19f938e4d0800000000000000
+      internalID: -3105168200937725018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_213
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ddb891eb9b38b0800000000000000
+      internalID: -5171368353872358780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_214
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72d88eb6f120fe0800000000000000
+      internalID: -1224381600367826945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_215
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22850adf6b032800800000000000000
+      internalID: 586324951515365934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_216
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2ad106ce5f8940800000000000000
+      internalID: 5300559490965974924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_217
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a07135e09e6a7f0800000000000000
+      internalID: -601537252474549708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_218
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e8c89f0b705f090800000000000000
+      internalID: -8001480706271441360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_219
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d87547ff4d40ea30800000000000000
+      internalID: 4242475854829287641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_220
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d323467d5087c0800000000000000
+      internalID: -4071151300628982375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_221
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ff9824a9b09b3f0800000000000000
+      internalID: -884663094632382640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_222
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639d2499bfed9e40800000000000000
+      internalID: 5664947486635955053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_223
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26195e6b9ee1bb8b0800000000000000
+      internalID: -5135476960941207198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901f3f803c8f50a00800000000000000
+      internalID: 722256831815348489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0e7a532fd269f0800000000000000
+      internalID: -476573267612791704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683537aac90aedd10800000000000000
+      internalID: 2152334266664702854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_227
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5557af60bacec4a20800000000000000
+      internalID: 3048071267123623253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_228
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331fa531b1a053e0800000000000000
+      internalID: -2066974446481108166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_229
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ce85f2e5e12dc0800000000000000
+      internalID: -3665395858757728176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_230
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794d7d16269c06dc0800000000000000
+      internalID: -3647694273784589161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_231
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3bd55d812a19b0800000000000000
+      internalID: -5108733936383869067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_232
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719b47d5d82fc4a50800000000000000
+      internalID: 6506842250615765271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_233
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c2826f89bc98bd0800000000000000
+      internalID: -2627345049768678385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_234
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f005f93a3a95ca880800000000000000
+      internalID: -8598399029197451249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_235
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b6773048b808090800000000000000
+      internalID: -8034268336118863061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_236
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521792e2d40cf6d60800000000000000
+      internalID: 7885732910268510501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_237
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0439578d8126a24c0800000000000000
+      internalID: -4311525834403507392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_238
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195ff4f3950ea88b0800000000000000
+      internalID: -5149056550025824879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_239
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24546f680c4d71d0800000000000000
+      internalID: -3351438948581485521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44a96efcc938b660800000000000000
+      internalID: 7401729540187857994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_241
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bf6515328ef8bf0800000000000000
+      internalID: -319781810133861499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_242
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5d50a968281a890800000000000000
+      internalID: -7448528794072787496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff7eee54704cc10800000000000000
+      internalID: 2072789725439590213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_244
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c4e3600eb6e93d0800000000000000
+      internalID: -3198000075464881069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_245
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b1c9f1657fa2a0800000000000000
+      internalID: -6724026654978362494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_246
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f990f75832e368f0800000000000000
+      internalID: -548345997987636748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_247
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa149d924fb152680800000000000000
+      internalID: -8780581163000839761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_248
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b43c80dfc54d80800000000000000
+      internalID: -8266973046356266069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_249
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a35b0bd84b3f600800000000000000
+      internalID: 500942504216312375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_250
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e71a6109f11460800000000000000
+      internalID: 7210818262867109688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_251
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f238cafc8a80cd650800000000000000
+      internalID: 6258887103269864239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_252
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac93d49bcfa745b30800000000000000
+      internalID: 4275177172140636618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_253
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b8e560aa8bc79c0800000000000000
+      internalID: -3928061734583104631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_254
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c862671b7e020540800000000000000
+      internalID: 4972552860406540481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blockatlas 1_255
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6079fe5c87a577e0800000000000000
+      internalID: -1768323057342386070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
