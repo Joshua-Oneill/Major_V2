@@ -5,7 +5,11 @@ public class ItemSelected : MonoBehaviour
 {
 
     public BlockDetection blockDetection;
-    
+
+    Image im;
+    Image allChildrenIm;
+    Color constant;
+    Color c;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,47 +26,80 @@ public class ItemSelected : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Alpha1)) //Grass 
         {
-            Vector2[] offset = calcUVs(4, 3);
-            gameObject.GetComponent<Image>().sprite.te
+            TransparencySet();
+
+
+            im = gameObject.transform.Find("Dirt").GetComponent<Image>();
+            c = im.color;
+            c.a = 1;
+            im.color = c;
+
+
             blockDetection.textureX = 3f;
             blockDetection.textureY = 16f;
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha2)) //Stone
+        else if (Input.GetKeyDown(KeyCode.Alpha2)) //m Stone
         {
-            gameObject.GetComponent<Image>().color = Color.red;
+
+            TransparencySet();
+
+
+            im = gameObject.transform.Find("Stone").GetComponent<Image>();
+            c = im.color;
+            c.a = 1;
+            im.color = c;
+
+
+            blockDetection.textureX = 5f;
+            blockDetection.textureY = 14f;
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3)) //snad 
+        {
+            TransparencySet();
+
+
+            im = gameObject.transform.Find("Sand").GetComponent<Image>();
+            c = im.color;
+            c.a = 1;
+            im.color = c;
+
+            
 
             blockDetection.textureX = 1f;
-            blockDetection.textureY = 15f;
-        }
-        else if (Input.GetKeyDown(KeyCode.Alpha3)) //
-        {
-            gameObject.GetComponent<Image>().color = Color.red;
-
-            blockDetection.textureX = 4f;
-            blockDetection.textureY = 15f;
+            blockDetection.textureY = 3f;
         }
         else if (Input.GetKeyDown(KeyCode.Alpha4))
         {
-            gameObject.GetComponent<Image>().color = Color.red;
+            TransparencySet();
 
-            blockDetection.textureX = 4f;
+            im = gameObject.transform.Find("Bedrock").GetComponent<Image>();
+            c = im.color;
+            c.a = 1;
+            im.color = c;
+
+            blockDetection.textureX = 2f;
             blockDetection.textureY = 15f;
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha5))
+        {
+            TransparencySet();
+
+            im = gameObject.transform.Find("Wood").GetComponent<Image>();
+            c = im.color;
+            c.a = 1;
+            im.color = c;
+
+            blockDetection.textureX = 5f;
+            blockDetection.textureY = 16f;
         }
     }
 
 
-    Vector2[] calcUVs(float x, float y)
+    public void TransparencySet()
     {
-        float offsetX = 0.0625f * x;
-        float offsetY = 0.0625f * y;
-
-        return new Vector2[4]
+        foreach (Transform item in gameObject.transform)
         {
-                new Vector2(offsetX - 0.0625f, offsetY - 0.0625f),  //left bottom corner           
-                new Vector2(offsetX, offsetY - 0.0625f),            //right bottom corner
-                new Vector2(offsetX, offsetY),                      //right top corner              
-                new Vector2(offsetX - 0.0625f, offsetY)             //left top corner 
-
-        };
+            item.gameObject.GetComponent<Image>().color = new Color(1f, 1f, 1f, 0.5f);
+        }
     }
 }

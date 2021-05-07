@@ -106,6 +106,34 @@ public class BlockDetection : MonoBehaviour
                 
             }
         }
+        else if (Input.GetMouseButtonDown(1))
+        {
+            if (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit, 10))
+            {
+                int xIn;
+                int.TryParse(hit.transform.parent.name.Substring(24, 2), out xIn);
+                int yIn;
+                int.TryParse(hit.transform.parent.name.Substring(28, 2), out yIn);
+                int zIn;
+                int.TryParse(hit.transform.parent.name.Substring(32, 2), out zIn);
+
+                int xChunk;
+                int.TryParse(hit.transform.parent.name.Substring(8, 2), out xChunk);
+                int yChunk;
+                int.TryParse(hit.transform.parent.name.Substring(13, 2), out yChunk);
+
+
+                CubeGenerator.CreateCube(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], new Vector3((xIn -1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], cubeSpawnScript.cubeArray));
+
+
+
+
+                tileGeneratorScript.chunkArray[xChunk, yChunk][xIn, yIn, zIn] = null;
+                Destroy(hit.transform.parent.gameObject);
+
+    }
+               
+        }
 
     }
 
