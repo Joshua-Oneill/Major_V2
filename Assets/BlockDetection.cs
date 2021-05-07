@@ -123,7 +123,8 @@ public class BlockDetection : MonoBehaviour
                 int.TryParse(hit.transform.parent.name.Substring(13, 2), out yChunk);
 
 
-                CubeGenerator.CreateCube(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], new Vector3((xIn -1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material, new Vector2(3, 16), CalculateNeighbours(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], cubeSpawnScript.cubeArray));
+                CubeGenerator.CreateCube(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], new Vector3((xIn -1) + (xChunk * 10), yIn, zIn + (yChunk * 10)), hit.collider.gameObject.GetComponent<MeshRenderer>().material
+                    , new Vector2(3, 16), CalculateNeighbours(tileGeneratorScript.chunkArray[xChunk, yChunk][(xIn - 1), yIn, zIn], cubeSpawnScript.cubeArray));
 
 
 
