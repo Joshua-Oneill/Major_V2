@@ -37,79 +37,68 @@ public class tileGenerator : MonoBehaviour
 
     public GameObject[,][,,] chunkArray;
 
-    // public RawImage perlinImage;
 
-    public int chunkSize; //the size of the entire map, square, number of chunks that make the map
+    public int chunkSize; //the number of chunks that will be instantied in order to create a larger combined terrain 
 
-    public float[,] heightMap;
+    public float[,] heightMap; //this array will be the perlin noise array 
 
-    // Start is called before the first frame update
     void Start()
     {
-        GenerateTile();
+        GenerateTile(); //on the start of the program we generate one large tile or map, made up of the specified number of chunks 
     }
 
     void GenerateTile()
     {
-        //Vector3[] meshVertices = meshFilter.mesh.vertices;
-        //int tileDepth = (int)Mathf.Sqrt(meshVertices.Length);
-        //int tileWidth = tileDepth;
+        //assigning the value from the noismap script to the heighMap array, aswell as passing in the erquired data for the paramneters on the noiseGeneration script
+        heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkSize, tileDepth * chunkSize, mapScale); 
 
-        heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkSize, tileDepth * chunkSize, mapScale);
-
-
+        //this array stores the position of every single cube that is created, the second 3 dimnesional array holds all the cubes within it, so the array knows whihc cube belongs to which chunk in the world
         chunkArray = new GameObject[chunkSize, chunkSize][,,];
 
+        //this loop will run for the legnth of chunkSize, so if two chunks ae wanted we will call the cubemake script two times 
         for (int chunkX = 0; chunkX < chunkSize; chunkX++)
         {
             for (int chunkY = 0; chunkY < chunkSize; chunkY++)
             {
-                
+                //now we assign each spot of chunkArray at the position of the chunk we are looking at, say chunkX & chunkY are at 1&1 we will be working on the top right hand corner of the chunk, 
+                //essentially two chunks are split into almos four total sections, one chunk has two parts to it. also pass in paramteres for the CubeMake script  
                 chunkArray[chunkX, chunkY] = cubeSpawnScript.CubeMake(tileLength, tileDepth, mapHeight, heightMap, chunkX, chunkY);
             }
         }
 
-
-
-
-
-       
-        //Texture2D tileTexture = BuildTexture(heightMap);
-       // tileRenderer.material.mainTexture = tileTexture;
-        
     }
 
-    Texture2D BuildTexture(float[,] heightMap)
-    {
-        int tileWidth = heightMap.GetLength(0);
-        int tileDepth = heightMap.GetLength(1);
+    //Texture2D BuildTexture(float[,] heightMap)
+    //{
+    //    int tileWidth = heightMap.GetLength(0);
+    //    int tileDepth = heightMap.GetLength(1);
 
-        Color[] colorMap = new Color[tileDepth * tileWidth];
+    //    Color[] colorMap = new Color[tileDepth * tileWidth];
 
-        for (int zIndex = 0; zIndex < tileDepth; zIndex++)
-        {
-            for (int xIndex = 0; xIndex < tileWidth; xIndex++)
-            {
-                int colorIndex = zIndex * tileWidth + xIndex;
-                float height = heightMap[zIndex, xIndex];
+    //    for (int zIndex = 0; zIndex < tileDepth; zIndex++)
+    //    {
+    //        for (int xIndex = 0; xIndex < tileWidth; xIndex++)
+    //        {
+    //            int colorIndex = zIndex * tileWidth + xIndex;
+    //            float height = heightMap[zIndex, xIndex];
 
 
-                ////choosing a terrain type depending on the height value 
-                //TerrainType terrainType = ChooseTerrainType(height);
-                //colorMap[colorIndex] = terrainType.color;
-                colorMap[colorIndex] = Color.Lerp(Color.black, Color.white, height);
+    //            ////choosing a terrain type depending on the height value 
+    //            //TerrainType terrainType = ChooseTerrainType(height);
+    //            //colorMap[colorIndex] = terrainType.color;
+    //            colorMap[colorIndex] = Color.Lerp(Color.black, Color.white, height);
 
-            }
-        }
+    //        }
+    //    }
 
-        Texture2D tileTexture = new Texture2D(tileWidth, tileDepth);
-        tileTexture.wrapMode = TextureWrapMode.Clamp;
-        tileTexture.SetPixels(colorMap);
-        tileTexture.Apply();
-       // perlinImage.texture = tileTexture;
+    //    Texture2D tileTexture = new Texture2D(tileWidth, tileDepth);
+    //    tileTexture.wrapMode = TextureWrapMode.Clamp;
+    //    tileTexture.SetPixels(colorMap);
+    //    tileTexture.Apply();
+    //   // perlinImage.texture = tileTexture;
 
-        return tileTexture;
-    }
+    //    return tileTexture;
+    //}
 
    
 }

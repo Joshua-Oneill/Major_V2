@@ -9,9 +9,6 @@ public class NoiseGeneration : MonoBehaviour
         float[,] noiseMap = new float[mapDepth, mapWidth]; //creates an empty map of coordinates
 
         float offset = Random.Range(0, 1000);
-        
-
-
 
         for (int i = 0; i < mapWidth; i++)
         {
@@ -26,7 +23,7 @@ public class NoiseGeneration : MonoBehaviour
             }
 
         }
-
+        Debug.Log(noiseMap[1, 1] / 2.0);
         return noiseMap;
     }
 }
