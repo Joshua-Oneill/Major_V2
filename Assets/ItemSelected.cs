@@ -3,6 +3,8 @@ using UnityEngine.UI;
 
 public class ItemSelected : MonoBehaviour
 {
+    //simple script that changes hat textured block you place depending on a key press
+    //it will highlight an image so you can tell which one is being used, sends the texture info to block detction script to tell the new cibe what texture offset to have
 
     public BlockDetection blockDetection;
 
@@ -10,13 +12,8 @@ public class ItemSelected : MonoBehaviour
     Image allChildrenIm;
     Color constant;
     Color c;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
+    
+    
     void Update()
     {
         SelectItem();
