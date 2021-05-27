@@ -74,6 +74,7 @@ public class CubeSpawn : MonoBehaviour
                     
                     // height map is 0-1 also divided by 2.0 as a seondary map scale a heigher number will be smoother a lower number is more tall and rigid,
                     // y/height is in decimal form which will be 0-1. 
+
                     //if the heighmap values at the zIndex and yIndex postions are greater then the yIndex devided by the total height specified example 4/10 will be 0.4
                     //then the perlin noise values will be in float form for example 0.5, then it will spawn a cube here
                     if (heightMap[xIndex + xOffset, zIndex + zOffset] /2.0 > yIndex/(double)height )
@@ -81,7 +82,7 @@ public class CubeSpawn : MonoBehaviour
                         //runs the funtion to infrom the cubeGenerator script if there are neihgbors to the sides or not
                         Sides neighbours = CalculateNeighbours(heightMap, new Vector3(xIndex + xOffset, yIndex/(float)height , zIndex + zOffset));
 
-                        //each cube will no be made a gameobject with this line we creat a gameobject then late rits assigned to a cube 
+                        //each cube will no be made a gameobject with this line we creat a gameobject then later its assigned to a cube 
                         GameObject go = new GameObject();
                         
                         //gameobject that was just made is added to the index of the aray wherever the nested loops are currently at
@@ -96,7 +97,8 @@ public class CubeSpawn : MonoBehaviour
                         //these sections allow each face to have a coordinate position and lets us set up a naming convention to indicate the chunk and x,y,z place of each cube within the unity hierachy 
                         go.transform.position = new Vector3(xIndex + xOffset, yIndex, zIndex + zOffset);
 
-                        go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})", chunkX, chunkY, xIndex , yIndex, zIndex);
+                        go.name = string.Format("Chunk(x:{0:D2} y:{1:D2})Index(x:{2:D2}y:{3:D2}z:{4:D2})",
+                            chunkX, chunkY, xIndex , yIndex, zIndex);
                         
                        
                     }

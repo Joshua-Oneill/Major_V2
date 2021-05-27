@@ -81,7 +81,8 @@ public class CubeGenerator
         if (!neighbours.front)
         {
             GameObject frontFace = new GameObject("frontFace");   //create a gameobject for the face and give it a name 
-            frontFace.transform.SetParent(gameObject.transform);  //sets the transform of the face to be under a combined empty object so the unity hierachy looks cleaner and adds a universal transform for all combined faces
+            frontFace.transform.SetParent(gameObject.transform);  //sets the transform of the face to be under a combined empty object so the unity hierachy looks ,
+                                                                  //cleaner and adds a universal transform for all combined faces
             MeshFilter frontMeshFilter = frontFace.AddComponent<MeshFilter>();   
             MeshRenderer frontMeshRenderer = frontFace.AddComponent<MeshRenderer>();
 

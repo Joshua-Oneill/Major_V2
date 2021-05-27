@@ -38,7 +38,7 @@ public class tileGenerator : MonoBehaviour
     public GameObject[,][,,] chunkArray;
 
 
-    public int chunkSize; //the number of chunks that will be instantied in order to create a larger combined terrain 
+    public int chunkNumber; //the number of chunks that will be instantied in order to create a larger combined terrain 
 
     public float[,] heightMap; //this array will be the perlin noise array 
 
@@ -50,15 +50,15 @@ public class tileGenerator : MonoBehaviour
     void GenerateTile()
     {
         //assigning the value from the noismap script to the heighMap array, aswell as passing in the erquired data for the paramneters on the noiseGeneration script
-        heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkSize, tileDepth * chunkSize, mapScale); 
+        heightMap = noiseGeneration.GenerateNoiseMap(tileLength * chunkNumber, tileDepth * chunkNumber, mapScale); 
 
         //this array stores the position of every single cube that is created, the second 3 dimnesional array holds all the cubes within it, so the array knows whihc cube belongs to which chunk in the world
-        chunkArray = new GameObject[chunkSize, chunkSize][,,];
+        chunkArray = new GameObject[chunkNumber, chunkNumber][,,];
 
         //this loop will run for the legnth of chunkSize, so if two chunks ae wanted we will call the cubemake script two times 
-        for (int chunkX = 0; chunkX < chunkSize; chunkX++)
+        for (int chunkX = 0; chunkX < chunkNumber; chunkX++)
         {
-            for (int chunkY = 0; chunkY < chunkSize; chunkY++)
+            for (int chunkY = 0; chunkY < chunkNumber; chunkY++)
             {
                 //now we assign each spot of chunkArray at the position of the chunk we are looking at, say chunkX & chunkY are at 1&1 we will be working on the top right hand corner of the chunk, 
                 //essentially two chunks are split into almos four total sections, one chunk has two parts to it. also pass in paramteres for the CubeMake script  
